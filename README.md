@@ -3,7 +3,6 @@
 <div align="center">
 
 ![TIL](https://img.shields.io/badge/TIL-Today%20I%20Learned-6366F1?style=for-the-badge)
-![Senior](https://img.shields.io/badge/Level-Senior%20Engineer-FF6B6B?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -16,22 +15,22 @@
 
 ## Categories
 
-| Category | Count | Level |
-|----------|-------|-------|
-| [Architecture](#architecture) | 3 | Staff+ |
-| [Distributed Systems](#distributed-systems) | 2 | Staff+ |
-| [DevOps & Platform](#devops--platform) | 3 | Senior+ |
-| [AI/ML Engineering](#aiml-engineering) | 2 | Senior+ |
-| [Database Engineering](#database-engineering) | 2 | Senior+ |
-| [Security Engineering](#security-engineering) | 2 | Staff+ |
-| [Performance & Scaling](#performance--scaling) | 1 | Staff+ |
-| [Observability](#observability) | 1 | Senior+ |
-| [Next.js Deep Dive](#nextjs) | 16 | Mid+ |
-| [TypeScript Advanced](#typescript) | 5 | Mid+ |
-| [Angular](#angular) | 3 | Mid+ |
-| [JavaScript](#javascript) | 3 | Mid+ |
-| [Git](#git) | 2 | Mid+ |
-| [CSS](#css) | 2 | Mid+ |
+| Category | Count |
+|----------|-------|
+| [Architecture](#architecture) | 3 |
+| [Distributed Systems](#distributed-systems) | 2 |
+| [DevOps & Platform](#devops--platform) | 3 |
+| [AI/ML Engineering](#aiml-engineering) | 2 |
+| [Database Engineering](#database-engineering) | 2 |
+| [Security Engineering](#security-engineering) | 2 |
+| [Performance & Scaling](#performance--scaling) | 1 |
+| [Observability](#observability) | 1 |
+| [Next.js](#nextjs) | 16 |
+| [TypeScript](#typescript) | 5 |
+| [Angular](#angular) | 3 |
+| [JavaScript](#javascript) | 3 |
+| [Git](#git) | 2 |
+| [CSS](#css) | 2 |
 
 **Total: 47 articles**
 
@@ -173,9 +172,9 @@ I'm **Rithy Tep**, a **Full Stack Team Lead** from Cambodia. I architect and bui
 - Team Leadership
 
 **Connect:**
-- 🌐 [Portfolio](https://portfolio.rithytep.online/)
-- 🐙 [GitHub](https://github.com/RithyTep)
-- 🏢 [Techbodia](https://github.com/Techbodia)
+- [Portfolio](https://portfolio.rithytep.online/)
+- [GitHub](https://github.com/RithyTep)
+- [Techbodia](https://github.com/Techbodia)
 
 ## License
 
@@ -185,6 +184,6 @@ MIT - Feel free to use these learnings in your own projects!
 
 <div align="center">
 
-⭐ **Star this repo** if you find it helpful!
+**Star this repo** if you find it helpful!
 
 </div>
