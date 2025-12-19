@@ -1,6 +1,18 @@
 # JavaScript Runtimes 2025 - Node.js vs Deno vs Bun
 
-Choosing the right runtime for production workloads.
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-24-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-2.0-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-1.3-FBF0DF?style=for-the-badge&logo=bun&logoColor=black)
+
+*Choosing the right runtime for production workloads.*
+
+[![Bun](https://img.shields.io/github/stars/oven-sh/bun?style=social&label=Bun)](https://github.com/oven-sh/bun)
+[![Deno](https://img.shields.io/badge/Deno-deno.land-black)](https://deno.land)
+[![Node.js](https://img.shields.io/badge/Node.js-nodejs.org-green)](https://nodejs.org)
+
+</div>
 
 ## Runtime Comparison
 

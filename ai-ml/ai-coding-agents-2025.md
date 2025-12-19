@@ -1,6 +1,18 @@
 # AI Coding Agents 2025 - Cursor vs Claude Code vs Windsurf
 
-Choosing the right AI-powered development environment.
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude_Code-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-Codeium-00C4CC?style=for-the-badge)
+
+*Choosing the right AI-powered development environment.*
+
+[![Cursor](https://img.shields.io/badge/cursor.com-black)](https://cursor.com)
+[![Claude Code](https://img.shields.io/badge/claude.ai-orange)](https://claude.ai/claude-code)
+[![Windsurf](https://img.shields.io/badge/windsurf.ai-teal)](https://codeium.com/windsurf)
+
+</div>
 
 ## Agent Comparison
 

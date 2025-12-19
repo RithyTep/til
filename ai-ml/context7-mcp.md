@@ -1,6 +1,15 @@
 # Context7 MCP - Real-Time Documentation for AI Coding
 
-Up-to-date, version-specific documentation directly in your AI prompts.
+<div align="center">
+
+![Context7 Cover](https://raw.githubusercontent.com/upstash/context7/master/public/cover.png)
+
+*Up-to-date, version-specific documentation directly in your AI prompts.*
+
+[![Website](https://img.shields.io/badge/Website-context7.com-blue)](https://context7.com)
+[![npm](https://img.shields.io/npm/v/@upstash/context7-mcp?color=red)](https://www.npmjs.com/package/@upstash/context7-mcp)
+
+</div>
 
 ## What is Context7?
 

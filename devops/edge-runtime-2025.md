@@ -1,6 +1,16 @@
 # Edge Runtime 2025 - Cloudflare Workers vs Vercel Edge
 
-Ultra-low latency serverless at the edge.
+<div align="center">
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel_Edge-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+*Ultra-low latency serverless at the edge.*
+
+[![Cloudflare Workers](https://img.shields.io/badge/workers.cloudflare.com-orange)](https://workers.cloudflare.com)
+[![Vercel Edge](https://img.shields.io/badge/vercel.com-black)](https://vercel.com/docs/functions/edge-functions)
+
+</div>
 
 ## Edge Computing Architecture
 

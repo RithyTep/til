@@ -1,6 +1,18 @@
 # Vercel AI SDK 4.1 - Building Production AI Applications
 
-Unified API for LLMs with streaming, tool calling, and React integration.
+<div align="center">
+
+![Vercel AI SDK](https://raw.githubusercontent.com/vercel/ai/main/assets/hero.gif)
+
+![Vercel](https://img.shields.io/badge/Vercel-AI_SDK_4.1-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-First-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+*Unified API for LLMs with streaming, tool calling, and React integration.*
+
+[![AI SDK Docs](https://img.shields.io/badge/Docs-ai--sdk.dev-blue)](https://ai-sdk.dev)
+[![GitHub](https://img.shields.io/github/stars/vercel/ai?style=social)](https://github.com/vercel/ai)
+
+</div>
 
 ## Architecture Overview
 

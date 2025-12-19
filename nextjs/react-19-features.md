@@ -1,6 +1,15 @@
 # React 19 - Compiler, Actions, and New Hooks
 
-The most significant React release since Hooks, with automatic optimizations and server-first patterns.
+<div align="center">
+
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+*The most significant React release since Hooks, with automatic optimizations and server-first patterns.*
+
+[![React Docs](https://img.shields.io/badge/Docs-react.dev-blue)](https://react.dev)
+
+</div>
 
 ## React Compiler (React Forget)
 
