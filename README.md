@@ -5,15 +5,10 @@
 <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" width="100" alt="TIL">
 
 ![TIL](https://img.shields.io/badge/TIL-Today%20I%20Learned-6366F1?style=for-the-badge)
-![Articles](https://img.shields.io/badge/Articles-56-success?style=for-the-badge)
+![Articles](https://img.shields.io/badge/Articles-80+-success?style=for-the-badge)
+![Updated](https://img.shields.io/badge/Updated-December%202025-blue?style=for-the-badge)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AI](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Advanced engineering concepts for senior developers and tech leads.**
+**A curated collection of concise write-ups on technologies I learn daily.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rithytep.online-blue?style=flat-square)](https://portfolio.rithytep.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-RithyTep-black?style=flat-square&logo=github)](https://github.com/RithyTep)
@@ -22,188 +17,328 @@
 
 ---
 
+## Quick Navigation
+
+| Frontend | Backend | DevOps | AI/ML |
+|:--------:|:-------:|:------:|:-----:|
+| [React](#react) | [API](#api) | [DevOps](#devops--platform) | [AI/ML](#aiml-engineering) |
+| [Next.js](#nextjs) | [Database](#database-engineering) | [Monorepo](#monorepo) | [LLM](#aiml-engineering) |
+| [TypeScript](#typescript) | [Auth](#authentication) | [Testing](#testing) | [RAG](#aiml-engineering) |
+| [CSS](#css) | [State](#state-management) | [Bundlers](#bundlers) | [Agents](#aiml-engineering) |
+
+---
+
 ## Categories
 
-| Category | Count |
-|----------|-------|
-| [Architecture](#architecture) | 3 |
-| [Distributed Systems](#distributed-systems) | 2 |
-| [DevOps & Platform](#devops--platform) | 5 |
-| [AI/ML Engineering](#aiml-engineering) | 8 |
-| [Database Engineering](#database-engineering) | 2 |
-| [Security Engineering](#security-engineering) | 2 |
-| [Performance & Scaling](#performance--scaling) | 1 |
-| [Observability](#observability) | 1 |
-| [Next.js & React](#nextjs--react) | 17 |
-| [TypeScript](#typescript) | 5 |
-| [Angular](#angular) | 3 |
-| [JavaScript](#javascript) | 3 |
-| [Git](#git) | 2 |
-| [CSS](#css) | 2 |
+### Frontend
 
-**Total: 56 articles**
+<details>
+<summary><b>React</b> (2 articles)</summary>
 
----
-
-## Architecture
-
-System design patterns for large-scale applications.
-
-- [Event-Driven Architecture - CQRS, Sagas, Outbox Pattern](architecture/event-driven-architecture.md)
-- [Domain-Driven Design - Aggregates, Bounded Contexts, ACL](architecture/domain-driven-design.md)
-- [Hexagonal Architecture - Ports & Adapters, Clean Architecture](architecture/hexagonal-architecture.md)
-
-## Distributed Systems
-
-Building reliable systems at scale.
-
-- [Consensus Protocols - Raft, Paxos, PBFT implementation](distributed-systems/consensus-protocols.md)
-- [CAP Theorem & PACELC - Consistency models, Quorums, CRDTs](distributed-systems/cap-theorem.md)
-
-## DevOps & Platform
-
-Production-grade infrastructure and deployment.
-
-- [Kubernetes Patterns - Deployments, HPA, Service Mesh, Secrets](devops/kubernetes-patterns.md)
-- [GitOps with ArgoCD - ApplicationSets, Progressive Delivery](devops/gitops-argocd.md)
-- [Observability Stack - OpenTelemetry, Prometheus, Grafana](devops/observability-stack.md)
-- [JavaScript Runtimes 2025 - Node.js vs Deno vs Bun](devops/javascript-runtimes-2025.md)
-- [Edge Runtime 2025 - Cloudflare Workers vs Vercel Edge](devops/edge-runtime-2025.md)
-
-## AI/ML Engineering
-
-Building production AI systems.
-
-- [LLM Integration - RAG, Function Calling, Streaming, Caching](ai-ml/llm-integration.md)
-- [Prompt Engineering - Chain of Thought, Few-Shot, Constitutional AI](ai-ml/prompt-engineering.md)
-- [MCP - Model Context Protocol for AI Tools](ai-ml/mcp-model-context-protocol.md)
-- [Context7 MCP - Real-Time Documentation for AI Coding](ai-ml/context7-mcp.md)
-- [AI Coding Agents 2025 - Cursor vs Claude Code vs Windsurf](ai-ml/ai-coding-agents-2025.md)
-- [Vercel AI SDK 4.1 - Building Production AI Applications](ai-ml/vercel-ai-sdk.md)
-- [Cursor Rules - System Prompts for AI Coding Assistants](ai-ml/cursor-rules.md)
-- [Development Conventions - Team Guidelines and Standards](ai-ml/development-conventions.md)
-
-## Database Engineering
-
-Advanced data management patterns.
-
-- [Query Optimization - EXPLAIN, Indexes, Window Functions, CTEs](database/query-optimization.md)
-- [Distributed Transactions - 2PC, Sagas, Outbox, CRDTs](database/distributed-transactions.md)
-
-## Security Engineering
-
-Zero-trust and API security.
-
-- [API Security - JWT, Rate Limiting, Input Validation, Secrets](security/api-security.md)
-- [Zero Trust Architecture - mTLS, SPIFFE, Policy-Based Access](security/zero-trust.md)
-
-## Performance & Scaling
-
-System design for massive scale.
-
-- [System Design & Scaling - Load Balancing, Sharding, Caching, Queues](performance/system-design-scaling.md)
-
-## Observability
-
-End-to-end system visibility.
-
-- [Distributed Tracing - OpenTelemetry, Sampling, Trace Analysis](observability/distributed-tracing.md)
-
----
-
-## Next.js & React
-
-Deep dive into Next.js 15+ and React 19 features and patterns.
-
-### React 19
+- [React Compiler - Automatic Optimization](react/react-compiler.md) - No more useMemo, useCallback
 - [React 19 Features - Compiler, Actions, and New Hooks](nextjs/react-19-features.md)
 
-### Core Concepts
+</details>
+
+<details>
+<summary><b>Next.js</b> (17 articles)</summary>
+
+**Core Concepts**
 - [Server Components - Zero-bundle React](nextjs/server-components.md)
 - [Server Actions - Form handling without API routes](nextjs/server-actions.md)
 - [Route Handlers - API endpoints in App Router](nextjs/route-handlers.md)
 - [Middleware - Request/response interception](nextjs/middleware.md)
+- [Turbopack - Rust-Powered Bundler](nextjs/turbopack.md)
 
-### Advanced Routing
+**Advanced Routing**
 - [Parallel Routes - Multiple pages in one layout](nextjs/parallel-routes.md)
 - [Intercepting Routes - Modal patterns](nextjs/intercepting-routes.md)
 
-### Performance & Optimization
+**Performance**
 - [Streaming & Suspense - Progressive rendering](nextjs/streaming-suspense.md)
 - [Caching Strategies - Full Stack caching](nextjs/caching-strategies.md)
 - [Partial Prerendering (PPR) - Static + Dynamic](nextjs/partial-prerendering.md)
 - [Dynamic Imports - Code splitting](nextjs/dynamic-imports.md)
 - [Image Optimization - next/image deep dive](nextjs/image-optimization.md)
 
-### Data & Fetching
+**Features**
 - [Data Fetching Patterns - Server-first approach](nextjs/data-fetching-patterns.md)
-
-### SEO & Metadata
 - [Metadata API - SEO optimization](nextjs/metadata-seo.md)
-
-### Authentication & i18n
 - [Authentication Patterns - Auth in App Router](nextjs/authentication-patterns.md)
 - [Internationalization - Multi-language apps](nextjs/internationalization.md)
-
-### Error Handling
 - [Error Handling - error.tsx and recovery](nextjs/error-handling.md)
 
-## TypeScript
+</details>
 
-- [Use `satisfies` for better type inference](typescript/satisfies-operator.md)
-- [Branded types for type-safe IDs](typescript/branded-types.md)
-- [Template literal types for string patterns](typescript/template-literal-types.md)
-- [Using `infer` in conditional types](typescript/infer-keyword.md)
-- [Const assertions with `as const`](typescript/const-assertions.md)
+<details>
+<summary><b>TypeScript</b> (6 articles)</summary>
 
-## Angular
+- [Zod v4 - 14x Faster Schema Validation](typescript/zod-v4.md)
+- [Satisfies Operator - Better type inference](typescript/satisfies-operator.md)
+- [Branded Types - Type-safe IDs](typescript/branded-types.md)
+- [Template Literal Types - String patterns](typescript/template-literal-types.md)
+- [Infer Keyword - Conditional types](typescript/infer-keyword.md)
+- [Const Assertions - `as const`](typescript/const-assertions.md)
 
-- [Standalone components without NgModules](angular/standalone-components.md)
-- [Signals for reactive state management](angular/signals.md)
-- [Defer blocks for lazy loading](angular/defer-blocks.md)
+</details>
 
-## JavaScript
+<details>
+<summary><b>CSS</b> (4 articles)</summary>
 
-- [Nullish coalescing vs OR operator](javascript/nullish-coalescing.md)
-- [Object.groupBy for array grouping](javascript/object-groupby.md)
-- [Using AbortController for fetch cancellation](javascript/abort-controller.md)
+- [Tailwind CSS v4 - CSS-First Configuration](css/tailwind-v4.md)
+- [View Transitions API - Smooth Page Animations](css/view-transitions.md)
+- [Container Queries - Component-based styling](css/container-queries.md)
+- [:has() Selector - Parent selection](css/has-selector.md)
 
-## Git
+</details>
 
-- [Interactive rebase for cleaner history](git/interactive-rebase.md)
-- [Git worktrees for parallel development](git/worktrees.md)
+<details>
+<summary><b>JavaScript</b> (3 articles)</summary>
 
-## CSS
+- [Nullish Coalescing - `??` vs `||`](javascript/nullish-coalescing.md)
+- [Object.groupBy - Native array grouping](javascript/object-groupby.md)
+- [AbortController - Fetch cancellation](javascript/abort-controller.md)
 
-- [Container queries for component-based styling](css/container-queries.md)
-- [The `:has()` selector for parent selection](css/has-selector.md)
+</details>
+
+<details>
+<summary><b>Angular</b> (3 articles)</summary>
+
+- [Standalone Components - Without NgModules](angular/standalone-components.md)
+- [Signals - Reactive state management](angular/signals.md)
+- [Defer Blocks - Lazy loading](angular/defer-blocks.md)
+
+</details>
+
+---
+
+### Backend & Data
+
+<details>
+<summary><b>API</b> (1 article)</summary>
+
+- [tRPC v11 - End-to-End Type-Safe APIs](api/trpc-v11.md)
+
+</details>
+
+<details>
+<summary><b>Database Engineering</b> (5 articles)</summary>
+
+- [Drizzle ORM - Type-Safe SQL](database/drizzle-orm.md)
+- [Turso - SQLite at the Edge](database/turso.md)
+- [Supabase Realtime - Live Data Subscriptions](database/supabase-realtime.md)
+- [Query Optimization - EXPLAIN, Indexes, CTEs](database/query-optimization.md)
+- [Distributed Transactions - 2PC, Sagas, Outbox](database/distributed-transactions.md)
+
+</details>
+
+<details>
+<summary><b>Authentication</b> (2 articles)</summary>
+
+- [Clerk - Modern Authentication for React](auth/clerk.md)
+- [Passkeys - Passwordless WebAuthn](auth/passkeys.md)
+
+</details>
+
+<details>
+<summary><b>State Management</b> (2 articles)</summary>
+
+- [Zustand - Lightweight State Management](state/zustand.md)
+- [TanStack Query v5 - Server State Management](state/tanstack-query.md)
+
+</details>
+
+<details>
+<summary><b>Frameworks</b> (2 articles)</summary>
+
+- [Hono - Ultrafast Web Framework for Edge](frameworks/hono.md)
+- [TanStack Router - Type-Safe Routing](tanstack/tanstack-router.md)
+
+</details>
+
+---
+
+### DevOps & Tools
+
+<details>
+<summary><b>DevOps & Platform</b> (5 articles)</summary>
+
+- [Kubernetes Patterns - Deployments, HPA, Service Mesh](devops/kubernetes-patterns.md)
+- [GitOps with ArgoCD - ApplicationSets](devops/gitops-argocd.md)
+- [Observability Stack - OpenTelemetry, Prometheus](devops/observability-stack.md)
+- [JavaScript Runtimes 2025 - Node.js vs Deno vs Bun](devops/javascript-runtimes-2025.md)
+- [Edge Runtime 2025 - Cloudflare vs Vercel](devops/edge-runtime-2025.md)
+
+</details>
+
+<details>
+<summary><b>Runtimes</b> (1 article)</summary>
+
+- [Bun - All-in-One JavaScript Runtime](runtimes/bun.md)
+
+</details>
+
+<details>
+<summary><b>Bundlers</b> (3 articles)</summary>
+
+- [Rspack - 23x Faster Webpack Alternative](bundlers/rspack.md)
+- [Vite 6 - Environment API](bundlers/vite6.md)
+- [Turbopack - Next.js Rust Bundler](nextjs/turbopack.md)
+
+</details>
+
+<details>
+<summary><b>Testing</b> (2 articles)</summary>
+
+- [Playwright - End-to-End Testing](testing/playwright.md)
+- [Vitest - Blazing Fast Unit Testing](testing/vitest.md)
+
+</details>
+
+<details>
+<summary><b>Monorepo</b> (1 article)</summary>
+
+- [Turborepo - High-Performance Monorepo](monorepo/turborepo.md)
+
+</details>
+
+<details>
+<summary><b>Tools</b> (1 article)</summary>
+
+- [Biome - Fast Linter & Formatter](tools/biome.md)
+
+</details>
+
+<details>
+<summary><b>Git</b> (2 articles)</summary>
+
+- [Interactive Rebase - Cleaner history](git/interactive-rebase.md)
+- [Git Worktrees - Parallel development](git/worktrees.md)
+
+</details>
+
+---
+
+### Architecture & Systems
+
+<details>
+<summary><b>Architecture</b> (3 articles)</summary>
+
+- [Event-Driven Architecture - CQRS, Sagas, Outbox](architecture/event-driven-architecture.md)
+- [Domain-Driven Design - Aggregates, Bounded Contexts](architecture/domain-driven-design.md)
+- [Hexagonal Architecture - Ports & Adapters](architecture/hexagonal-architecture.md)
+
+</details>
+
+<details>
+<summary><b>Distributed Systems</b> (2 articles)</summary>
+
+- [Consensus Protocols - Raft, Paxos, PBFT](distributed-systems/consensus-protocols.md)
+- [CAP Theorem & PACELC - Consistency models](distributed-systems/cap-theorem.md)
+
+</details>
+
+<details>
+<summary><b>Security</b> (2 articles)</summary>
+
+- [API Security - JWT, Rate Limiting, Validation](security/api-security.md)
+- [Zero Trust Architecture - mTLS, SPIFFE](security/zero-trust.md)
+
+</details>
+
+<details>
+<summary><b>Performance</b> (1 article)</summary>
+
+- [System Design & Scaling - Sharding, Caching, Queues](performance/system-design-scaling.md)
+
+</details>
+
+<details>
+<summary><b>Observability</b> (1 article)</summary>
+
+- [Distributed Tracing - OpenTelemetry](observability/distributed-tracing.md)
+
+</details>
+
+---
+
+### AI/ML Engineering
+
+<details>
+<summary><b>AI/ML</b> (10 articles)</summary>
+
+**APIs & SDKs**
+- [Claude API - Building with Anthropic's AI](ai-ml/claude-api.md)
+- [Vercel AI SDK 4.1 - Production AI Apps](ai-ml/vercel-ai-sdk.md)
+
+**Patterns**
+- [RAG Patterns - Retrieval Augmented Generation](ai-ml/rag-patterns.md)
+- [LLM Integration - Function Calling, Streaming](ai-ml/llm-integration.md)
+- [Prompt Engineering - CoT, Few-Shot](ai-ml/prompt-engineering.md)
+
+**Tools**
+- [MCP - Model Context Protocol](ai-ml/mcp-model-context-protocol.md)
+- [Context7 MCP - Real-Time Documentation](ai-ml/context7-mcp.md)
+- [AI Coding Agents 2025 - Cursor vs Claude Code](ai-ml/ai-coding-agents-2025.md)
+- [Cursor Rules - System Prompts for AI](ai-ml/cursor-rules.md)
+- [Development Conventions - Team Guidelines](ai-ml/development-conventions.md)
+
+</details>
+
+---
+
+## Recent Additions (December 2025)
+
+| Article | Category | Description |
+|---------|----------|-------------|
+| [React Compiler](react/react-compiler.md) | React | Automatic memoization |
+| [Tailwind v4](css/tailwind-v4.md) | CSS | CSS-first configuration |
+| [View Transitions](css/view-transitions.md) | CSS | Native page animations |
+| [tRPC v11](api/trpc-v11.md) | API | Type-safe APIs |
+| [Drizzle ORM](database/drizzle-orm.md) | Database | Type-safe SQL |
+| [Turso](database/turso.md) | Database | SQLite at edge |
+| [Clerk](auth/clerk.md) | Auth | Modern authentication |
+| [Passkeys](auth/passkeys.md) | Auth | WebAuthn |
+| [Zustand](state/zustand.md) | State | Lightweight state |
+| [TanStack Query](state/tanstack-query.md) | State | Server state |
+| [Playwright](testing/playwright.md) | Testing | E2E testing |
+| [Vitest](testing/vitest.md) | Testing | Unit testing |
+| [Turborepo](monorepo/turborepo.md) | Monorepo | Build system |
+| [Bun](runtimes/bun.md) | Runtime | All-in-one JS |
+| [Rspack](bundlers/rspack.md) | Bundler | Rust webpack |
+| [Vite 6](bundlers/vite6.md) | Bundler | Environment API |
+| [Hono](frameworks/hono.md) | Framework | Edge framework |
+| [TanStack Router](tanstack/tanstack-router.md) | Framework | Type-safe routing |
+| [Biome](tools/biome.md) | Tools | Fast linter |
+| [Claude API](ai-ml/claude-api.md) | AI/ML | Anthropic API |
+| [RAG Patterns](ai-ml/rag-patterns.md) | AI/ML | Vector search |
 
 ---
 
 ## About
 
-I'm **Rithy Tep**, a **Full Stack Team Lead** from Cambodia. I architect and build scalable systems using TypeScript, Next.js, Angular, and cloud-native technologies.
+I'm **Rithy Tep**, a **Full Stack Team Lead** from Cambodia. I architect and build scalable systems using TypeScript, Next.js, and cloud-native technologies.
 
-**Expertise:**
-- System Architecture & Design
-- Distributed Systems
-- Platform Engineering
-- AI/ML Integration
-- Team Leadership
+**Focus Areas:**
+- System Architecture & Distributed Systems
+- AI/ML Integration & LLM Applications
+- Platform Engineering & DevOps
+- Team Leadership & Mentoring
 
 **Connect:**
 - [Portfolio](https://portfolio.rithytep.online/)
 - [GitHub](https://github.com/RithyTep)
-- [Techbodia](https://github.com/Techbodia)
+
+---
 
 ## License
 
 MIT - Feel free to use these learnings in your own projects!
 
----
-
 <div align="center">
 
-**Star this repo** if you find it helpful!
+**Star this repo if you find it helpful!**
+
+![Stars](https://img.shields.io/github/stars/RithyTep/til?style=social)
 
 </div>
