@@ -1,6 +1,13 @@
 # Internationalization (i18n) in Next.js
 
-Build multi-language applications with App Router.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![i18n](https://img.shields.io/badge/i18n-Internationalization-blue?style=for-the-badge)
+
+*Build multi-language applications with App Router.*
+
+</div>
 
 ## Directory Structure
 

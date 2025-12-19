@@ -1,6 +1,13 @@
 # Middleware for Edge Computing
 
-Middleware runs before every request at the Edge, perfect for auth and redirects.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-Middleware-orange?style=for-the-badge&logo=vercel&logoColor=white)
+
+*Middleware runs before every request at the Edge, perfect for auth and redirects.*
+
+</div>
 
 ## Basic Middleware
 

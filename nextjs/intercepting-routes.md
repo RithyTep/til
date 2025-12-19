@@ -1,6 +1,13 @@
 # Intercepting Routes for Modals
 
-Intercepting routes show a route as a modal while keeping the URL updated.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-Intercepting_Routes-purple?style=for-the-badge)
+
+*Intercepting routes show a route as a modal while keeping the URL updated.*
+
+</div>
 
 ## Convention
 

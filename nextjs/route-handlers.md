@@ -1,6 +1,13 @@
 # Route Handlers (API Routes)
 
-Create API endpoints using the App Router's route handlers.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![API](https://img.shields.io/badge/API-Route_Handlers-green?style=for-the-badge)
+
+*Create API endpoints using the App Router's route handlers.*
+
+</div>
 
 ## Basic Route Handler
 

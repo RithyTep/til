@@ -1,6 +1,14 @@
 # Modern Observability Stack
 
-Metrics, logs, and traces for production systems.
+<div align="center">
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+*Metrics, logs, and traces for production systems.*
+
+</div>
 
 ## OpenTelemetry Instrumentation
 

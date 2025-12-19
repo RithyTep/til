@@ -1,6 +1,13 @@
 # Hexagonal Architecture (Ports & Adapters)
 
-Framework-agnostic business logic with replaceable infrastructure.
+<div align="center">
+
+![Architecture](https://img.shields.io/badge/Architecture-Hexagonal-purple?style=for-the-badge)
+![Pattern](https://img.shields.io/badge/Pattern-Ports_&_Adapters-blue?style=for-the-badge)
+
+*Framework-agnostic business logic with replaceable infrastructure.*
+
+</div>
 
 ## Core Structure
 

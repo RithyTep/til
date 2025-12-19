@@ -1,6 +1,13 @@
 # GitOps with ArgoCD
 
-Declarative, Git-centric continuous delivery for Kubernetes.
+<div align="center">
+
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-Continuous_Delivery-blue?style=for-the-badge)
+
+*Declarative, Git-centric continuous delivery for Kubernetes.*
+
+</div>
 
 ## ArgoCD Application Patterns
 

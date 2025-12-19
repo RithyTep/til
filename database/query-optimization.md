@@ -1,6 +1,13 @@
 # Advanced Query Optimization
 
-PostgreSQL optimization techniques for high-performance applications.
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-Query_Optimization-blue?style=for-the-badge)
+
+*PostgreSQL optimization techniques for high-performance applications.*
+
+</div>
 
 ## EXPLAIN ANALYZE Deep Dive
 

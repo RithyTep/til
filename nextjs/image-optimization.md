@@ -1,6 +1,13 @@
 # Image Optimization with next/image
 
-Automatic image optimization for better Core Web Vitals.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Images](https://img.shields.io/badge/Optimization-Images-green?style=for-the-badge)
+
+*Automatic image optimization for better Core Web Vitals.*
+
+</div>
 
 ## Basic Usage
 

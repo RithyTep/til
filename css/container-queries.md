@@ -1,6 +1,13 @@
 # Container Queries for Component-Based Styling
 
-Container queries let components style themselves based on their container size, not viewport.
+<div align="center">
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Feature](https://img.shields.io/badge/Modern_CSS-Container_Queries-purple?style=for-the-badge)
+
+*Container queries let components style themselves based on their container size, not viewport.*
+
+</div>
 
 ## The Problem with Media Queries
 

@@ -1,6 +1,13 @@
 # Consensus Protocols
 
-Distributed agreement algorithms for fault-tolerant systems.
+<div align="center">
+
+![Distributed](https://img.shields.io/badge/Distributed_Systems-Consensus-red?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-Raft_|_Paxos_|_PBFT-orange?style=for-the-badge)
+
+*Distributed agreement algorithms for fault-tolerant systems.*
+
+</div>
 
 ## Raft Consensus
 

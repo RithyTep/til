@@ -1,6 +1,13 @@
 # Data Fetching Patterns in Next.js
 
-Best practices for fetching data in App Router applications.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Data](https://img.shields.io/badge/Data-Fetching_Patterns-blue?style=for-the-badge)
+
+*Best practices for fetching data in App Router applications.*
+
+</div>
 
 ## Server Component Fetch
 

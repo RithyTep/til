@@ -1,6 +1,13 @@
 # Object.groupBy for Array Grouping
 
-ES2024 introduces `Object.groupBy()` for native array grouping without lodash.
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ES2024](https://img.shields.io/badge/ES2024-Object.groupBy-green?style=for-the-badge)
+
+*ES2024 introduces `Object.groupBy()` for native array grouping without lodash.*
+
+</div>
 
 ## Basic Usage
 

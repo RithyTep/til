@@ -1,6 +1,13 @@
 # Metadata API for SEO
 
-Generate dynamic meta tags for better SEO with the Metadata API.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-Metadata_API-orange?style=for-the-badge&logo=google&logoColor=white)
+
+*Generate dynamic meta tags for better SEO with the Metadata API.*
+
+</div>
 
 ## Static Metadata
 

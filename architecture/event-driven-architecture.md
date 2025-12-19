@@ -1,6 +1,13 @@
 # Event-Driven Architecture Patterns
 
-Building loosely coupled, scalable systems with events.
+<div align="center">
+
+![Architecture](https://img.shields.io/badge/Architecture-Event_Driven-purple?style=for-the-badge)
+![Pattern](https://img.shields.io/badge/Pattern-CQRS_|_Saga_|_Outbox-blue?style=for-the-badge)
+
+*Building loosely coupled, scalable systems with events.*
+
+</div>
 
 ## Event Sourcing vs Event-Driven
 

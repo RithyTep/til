@@ -1,6 +1,13 @@
 # Nullish Coalescing vs OR Operator
 
-The `??` operator only checks for `null` or `undefined`, unlike `||` which checks for any falsy value.
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ES2020](https://img.shields.io/badge/ES2020-Nullish_Coalescing-orange?style=for-the-badge)
+
+*The `??` operator only checks for `null` or `undefined`, unlike `||` which checks for any falsy value.*
+
+</div>
 
 ## The Problem with `||`
 

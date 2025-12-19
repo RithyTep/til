@@ -1,6 +1,13 @@
 # Domain-Driven Design in Practice
 
-Strategic and tactical patterns for complex domains.
+<div align="center">
+
+![DDD](https://img.shields.io/badge/Architecture-Domain_Driven_Design-purple?style=for-the-badge)
+![Pattern](https://img.shields.io/badge/Pattern-Aggregates_|_Bounded_Context-blue?style=for-the-badge)
+
+*Strategic and tactical patterns for complex domains.*
+
+</div>
 
 ## Bounded Contexts & Context Mapping
 

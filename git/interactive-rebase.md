@@ -1,6 +1,13 @@
 # Interactive Rebase for Cleaner History
 
-Use `git rebase -i` to squash, edit, or reorder commits before pushing.
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Rebase](https://img.shields.io/badge/Command-Interactive_Rebase-orange?style=for-the-badge)
+
+*Use `git rebase -i` to squash, edit, or reorder commits before pushing.*
+
+</div>
 
 ## Start Interactive Rebase
 

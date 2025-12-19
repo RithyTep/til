@@ -1,6 +1,13 @@
 # Template Literal Types for String Patterns
 
-TypeScript 4.1+ lets you create types from string patterns using template literals.
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TS 4.1](https://img.shields.io/badge/TS_4.1+-Template_Literals-yellow?style=for-the-badge)
+
+*TypeScript 4.1+ lets you create types from string patterns using template literals.*
+
+</div>
 
 ## Basic Usage
 

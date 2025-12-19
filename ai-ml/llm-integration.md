@@ -1,6 +1,13 @@
 # LLM Integration Patterns
 
-Production patterns for AI/LLM-powered applications.
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI-LLM_Integration-purple?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-orange?style=for-the-badge)
+
+*Production patterns for AI/LLM-powered applications.*
+
+</div>
 
 ## Structured Output with Function Calling
 

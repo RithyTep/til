@@ -1,6 +1,13 @@
 # CAP Theorem & PACELC
 
-Understanding consistency models in distributed systems.
+<div align="center">
+
+![Distributed](https://img.shields.io/badge/Distributed_Systems-CAP_Theorem-red?style=for-the-badge)
+![Consistency](https://img.shields.io/badge/Models-Consistency_|_Availability_|_Partition-orange?style=for-the-badge)
+
+*Understanding consistency models in distributed systems.*
+
+</div>
 
 ## CAP Theorem
 

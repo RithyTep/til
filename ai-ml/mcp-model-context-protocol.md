@@ -1,6 +1,13 @@
 # Model Context Protocol (MCP)
 
-Anthropic's open protocol for connecting AI assistants to external data sources and tools.
+<div align="center">
+
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-purple?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Anthropic-Protocol-orange?style=for-the-badge)
+
+*Anthropic's open protocol for connecting AI assistants to external data sources and tools.*
+
+</div>
 
 ## What is MCP?
 

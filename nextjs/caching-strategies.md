@@ -1,6 +1,13 @@
 # Next.js Caching Strategies
 
-Understanding the four caching layers in Next.js 14+.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Cache](https://img.shields.io/badge/Performance-Caching_Layers-green?style=for-the-badge)
+
+*Understanding the four caching layers in Next.js 14+.*
+
+</div>
 
 ## 1. Request Memoization
 

@@ -1,6 +1,13 @@
 # Parallel Routes for Complex Layouts
 
-Parallel routes render multiple pages in the same layout simultaneously.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-Parallel_Routes-blue?style=for-the-badge)
+
+*Parallel routes render multiple pages in the same layout simultaneously.*
+
+</div>
 
 ## Directory Structure
 

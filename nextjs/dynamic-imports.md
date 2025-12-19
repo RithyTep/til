@@ -1,6 +1,13 @@
 # Dynamic Imports for Code Splitting
 
-Lazy load components to reduce initial bundle size.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance-Code_Splitting-yellow?style=for-the-badge)
+
+*Lazy load components to reduce initial bundle size.*
+
+</div>
 
 ## Basic Dynamic Import
 

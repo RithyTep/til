@@ -1,6 +1,13 @@
 # Const Assertions with `as const`
 
-Use `as const` to make TypeScript infer the most specific literal types.
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Feature](https://img.shields.io/badge/Feature-Const_Assertions-orange?style=for-the-badge)
+
+*Use `as const` to make TypeScript infer the most specific literal types.*
+
+</div>
 
 ## Problem
 

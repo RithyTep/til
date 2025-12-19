@@ -1,6 +1,13 @@
 # Development Conventions & Team Guidelines
 
-Standardized conventions for consistent code quality and team alignment.
+<div align="center">
+
+![Standards](https://img.shields.io/badge/Team-Conventions-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Workflow-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+*Standardized conventions for consistent code quality and team alignment.*
+
+</div>
 
 ## Git Workflow
 

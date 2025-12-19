@@ -1,6 +1,13 @@
 # Kubernetes Production Patterns
 
-Battle-tested patterns for running production workloads.
+<div align="center">
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Production_Patterns-green?style=for-the-badge)
+
+*Battle-tested patterns for running production workloads.*
+
+</div>
 
 ## Deployment Strategies
 

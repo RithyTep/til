@@ -1,6 +1,13 @@
 # Server Actions for Form Handling
 
-Server Actions let you run server code directly from forms without API routes.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Server Actions](https://img.shields.io/badge/Server-Actions-blueviolet?style=for-the-badge)
+
+*Server Actions let you run server code directly from forms without API routes.*
+
+</div>
 
 ## Basic Server Action
 

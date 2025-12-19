@@ -1,6 +1,13 @@
 # Defer Blocks for Lazy Loading
 
-Angular 17+ introduces `@defer` blocks for declarative lazy loading.
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular 17](https://img.shields.io/badge/Angular_17+-Defer_Blocks-purple?style=for-the-badge)
+
+*Angular 17+ introduces `@defer` blocks for declarative lazy loading.*
+
+</div>
 
 ## Basic Usage
 

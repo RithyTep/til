@@ -1,6 +1,13 @@
 # Using `infer` in Conditional Types
 
-The `infer` keyword lets you extract types from within other types.
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Advanced](https://img.shields.io/badge/Advanced-Infer_Keyword-purple?style=for-the-badge)
+
+*The `infer` keyword lets you extract types from within other types.*
+
+</div>
 
 ## Basic Example
 

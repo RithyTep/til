@@ -1,6 +1,13 @@
 # Partial Prerendering (PPR)
 
-Combine static and dynamic content in a single route (Next.js 14+).
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PPR](https://img.shields.io/badge/Next.js_14-Partial_Prerendering-blueviolet?style=for-the-badge)
+
+*Combine static and dynamic content in a single route (Next.js 14+).*
+
+</div>
 
 ## The Concept
 

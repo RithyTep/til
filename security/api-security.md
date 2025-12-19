@@ -1,6 +1,13 @@
 # API Security Best Practices
 
-Production-grade security for modern APIs.
+<div align="center">
+
+![Security](https://img.shields.io/badge/Security-API_Security-red?style=for-the-badge&logo=owasp&logoColor=white)
+![Auth](https://img.shields.io/badge/Auth-JWT_|_OAuth2-yellow?style=for-the-badge)
+
+*Production-grade security for modern APIs.*
+
+</div>
 
 ## Authentication & Authorization
 

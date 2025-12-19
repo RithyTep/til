@@ -2,12 +2,21 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" width="100" alt="TIL">
+
 ![TIL](https://img.shields.io/badge/TIL-Today%20I%20Learned-6366F1?style=for-the-badge)
+![Articles](https://img.shields.io/badge/Articles-56-success?style=for-the-badge)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AI](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Advanced engineering concepts for senior developers and tech leads.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rithytep.online-blue?style=flat-square)](https://portfolio.rithytep.online/)
+[![GitHub](https://img.shields.io/badge/GitHub-RithyTep-black?style=flat-square&logo=github)](https://github.com/RithyTep)
 
 </div>
 

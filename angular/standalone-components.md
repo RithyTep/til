@@ -1,6 +1,13 @@
 # Standalone Components Without NgModules
 
-Angular 14+ allows components without NgModules using `standalone: true`.
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular 14](https://img.shields.io/badge/Angular_14+-Standalone-green?style=for-the-badge)
+
+*Angular 14+ allows components without NgModules using `standalone: true`.*
+
+</div>
 
 ## Creating a Standalone Component
 

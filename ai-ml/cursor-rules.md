@@ -1,6 +1,13 @@
 # Cursor Rules for Next.js Development
 
-System prompts for AI coding assistants to produce clean, production-ready code.
+<div align="center">
+
+![Cursor](https://img.shields.io/badge/Cursor-AI_IDE-black?style=for-the-badge)
+![Rules](https://img.shields.io/badge/AI-System_Prompts-blue?style=for-the-badge)
+
+*System prompts for AI coding assistants to produce clean, production-ready code.*
+
+</div>
 
 ## Next.js Clean Code Rules
 

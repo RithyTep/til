@@ -1,6 +1,13 @@
 # Advanced Prompt Engineering
 
-Production-grade prompting techniques for reliable AI systems.
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI-Prompt_Engineering-blue?style=for-the-badge&logo=openai&logoColor=white)
+![Pattern](https://img.shields.io/badge/Pattern-CoT_|_Self_Consistency-green?style=for-the-badge)
+
+*Production-grade prompting techniques for reliable AI systems.*
+
+</div>
 
 ## Chain of Thought & Self-Consistency
 

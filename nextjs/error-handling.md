@@ -1,6 +1,13 @@
 # Error Handling in Next.js
 
-Handle errors gracefully with error boundaries and not-found pages.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Errors](https://img.shields.io/badge/UX-Error_Handling-red?style=for-the-badge)
+
+*Handle errors gracefully with error boundaries and not-found pages.*
+
+</div>
 
 ## error.tsx (Error Boundary)
 

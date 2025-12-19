@@ -1,6 +1,13 @@
 # Distributed Tracing Architecture
 
-End-to-end request visibility across microservices.
+<div align="center">
+
+![Tracing](https://img.shields.io/badge/Observability-Distributed_Tracing-purple?style=for-the-badge&logo=jaeger&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+*End-to-end request visibility across microservices.*
+
+</div>
 
 ## Trace Propagation
 

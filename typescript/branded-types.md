@@ -1,6 +1,13 @@
 # Branded Types for Type-Safe IDs
 
-Branded types prevent mixing up IDs of different entities even though they're all strings.
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Pattern](https://img.shields.io/badge/Pattern-Branded_Types-blue?style=for-the-badge)
+
+*Branded types prevent mixing up IDs of different entities even though they're all strings.*
+
+</div>
 
 ## Problem
 

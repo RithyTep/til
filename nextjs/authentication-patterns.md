@@ -1,6 +1,13 @@
 # Authentication Patterns in Next.js
 
-Common patterns for auth in App Router applications.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Auth](https://img.shields.io/badge/Security-Authentication-red?style=for-the-badge&logo=auth0&logoColor=white)
+
+*Common patterns for auth in App Router applications.*
+
+</div>
 
 ## Middleware Authentication
 

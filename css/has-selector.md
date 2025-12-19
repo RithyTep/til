@@ -1,6 +1,13 @@
 # The `:has()` Selector for Parent Selection
 
-CSS `:has()` is the "parent selector" we've waited 20 years for!
+<div align="center">
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Feature](https://img.shields.io/badge/Modern_CSS-:has()_Selector-green?style=for-the-badge)
+
+*CSS `:has()` is the "parent selector" we've waited 20 years for!*
+
+</div>
 
 ## Basic Usage
 

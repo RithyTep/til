@@ -1,6 +1,13 @@
 # Use `satisfies` for Better Type Inference
 
-The `satisfies` operator (TypeScript 4.9+) validates that an expression matches a type while keeping the most specific type inferred.
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TS 4.9](https://img.shields.io/badge/TS_4.9+-Satisfies_Operator-green?style=for-the-badge)
+
+*The `satisfies` operator (TypeScript 4.9+) validates that an expression matches a type while keeping the most specific type inferred.*
+
+</div>
 
 ## Problem
 

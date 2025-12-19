@@ -1,6 +1,13 @@
 # Distributed Transactions & Consistency
 
-Patterns for data consistency in distributed systems.
+<div align="center">
+
+![Database](https://img.shields.io/badge/Database-Distributed_Transactions-blue?style=for-the-badge)
+![Pattern](https://img.shields.io/badge/Pattern-2PC_|_Saga_|_Outbox-orange?style=for-the-badge)
+
+*Patterns for data consistency in distributed systems.*
+
+</div>
 
 ## Two-Phase Commit (2PC)
 

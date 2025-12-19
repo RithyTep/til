@@ -1,6 +1,13 @@
 # Signals for Reactive State Management
 
-Angular Signals (v16+) provide a simpler way to handle reactive state without RxJS complexity.
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular 16](https://img.shields.io/badge/Angular_16+-Signals-blue?style=for-the-badge)
+
+*Angular Signals (v16+) provide a simpler way to handle reactive state without RxJS complexity.*
+
+</div>
 
 ## Basic Usage
 

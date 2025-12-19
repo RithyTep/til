@@ -1,6 +1,13 @@
 # Git Worktrees for Parallel Development
 
-Worktrees let you work on multiple branches simultaneously in different directories.
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Worktrees](https://img.shields.io/badge/Feature-Worktrees-blue?style=for-the-badge)
+
+*Worktrees let you work on multiple branches simultaneously in different directories.*
+
+</div>
 
 ## The Problem
 

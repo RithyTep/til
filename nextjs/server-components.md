@@ -1,6 +1,13 @@
 # React Server Components in Next.js
 
-Server Components run only on the server, reducing JavaScript sent to the client.
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![RSC](https://img.shields.io/badge/React-Server_Components-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+*Server Components run only on the server, reducing JavaScript sent to the client.*
+
+</div>
 
 ## Default Behavior (App Router)
 

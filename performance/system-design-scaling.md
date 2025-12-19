@@ -1,6 +1,13 @@
 # System Design & Scaling Patterns
 
-Architecture patterns for handling massive scale.
+<div align="center">
+
+![System Design](https://img.shields.io/badge/System_Design-Scaling-blue?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Pattern](https://img.shields.io/badge/Pattern-Sharding_|_Caching_|_Queues-orange?style=for-the-badge)
+
+*Architecture patterns for handling massive scale.*
+
+</div>
 
 ## Load Balancing Strategies
 

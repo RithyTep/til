@@ -1,6 +1,13 @@
 # Zero Trust Architecture
 
-Never trust, always verify - security for modern distributed systems.
+<div align="center">
+
+![Security](https://img.shields.io/badge/Security-Zero_Trust-red?style=for-the-badge&logo=okta&logoColor=white)
+![Pattern](https://img.shields.io/badge/Pattern-mTLS_|_SPIFFE_|_OPA-blue?style=for-the-badge)
+
+*Never trust, always verify - security for modern distributed systems.*
+
+</div>
 
 ## Core Principles
 
