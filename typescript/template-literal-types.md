@@ -50,5 +50,5 @@ type Params = ExtractRouteParams<"/users/:userId/posts/:postId">;
 
 ---
 
-📅 *Learned: 2024*
+📅 *Learned: December 20, 2025*
 🏷️ *Tags: TypeScript, Template Literals*

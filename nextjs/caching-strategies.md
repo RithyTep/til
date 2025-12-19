@@ -99,5 +99,5 @@ import { cookies, headers } from 'next/headers';
 
 ---
 
-📅 *Learned: 2024*
+📅 *Learned: December 20, 2025*
 🏷️ *Tags: Next.js, Caching, Performance, Revalidation*

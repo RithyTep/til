@@ -298,5 +298,5 @@ class LegacyOrderAdapter implements OrderPort {
 
 ---
 
-*Learned: 2024*
+*Learned: December 20, 2025*
 *Tags: DDD, Architecture, Domain Modeling, Aggregates, Bounded Context*

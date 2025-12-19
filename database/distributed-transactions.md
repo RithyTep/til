@@ -437,5 +437,5 @@ class LWWSet<T> {
 
 ---
 
-*Learned: 2024*
+*Learned: December 20, 2025*
 *Tags: Distributed Systems, Transactions, Saga, CRDT, Consistency*

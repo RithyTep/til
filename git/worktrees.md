@@ -78,5 +78,5 @@ cd ../test-main && npm test
 
 ---
 
-📅 *Learned: 2024*
+📅 *Learned: December 20, 2025*
 🏷️ *Tags: Git, Worktrees, Productivity*

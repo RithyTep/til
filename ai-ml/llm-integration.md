@@ -360,5 +360,5 @@ class SemanticCache {
 
 ---
 
-*Learned: 2024*
+*Learned: December 20, 2025*
 *Tags: LLM, AI, RAG, Claude, OpenAI, Vector Database*

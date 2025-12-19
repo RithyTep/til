@@ -100,5 +100,5 @@ export default function PostPage({ params }) {
 
 ---
 
-📅 *Learned: 2024*
+📅 *Learned: December 20, 2025*
 🏷️ *Tags: Next.js, Streaming, Suspense, Performance*

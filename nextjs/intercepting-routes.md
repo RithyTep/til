@@ -87,5 +87,5 @@ export default function PhotoPage({ params }) {
 
 ---
 
-📅 *Learned: 2024*
+📅 *Learned: December 20, 2025*
 🏷️ *Tags: Next.js, Intercepting Routes, Modals*

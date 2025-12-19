@@ -78,5 +78,5 @@ Angular 17+ introduces `@defer` blocks for declarative lazy loading.
 
 ---
 
-📅 *Learned: 2024*
+📅 *Learned: December 20, 2025*
 🏷️ *Tags: Angular, Defer Blocks, Lazy Loading, Performance*

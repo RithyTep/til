@@ -350,5 +350,5 @@ spec:
 
 ---
 
-*Learned: 2024*
+*Learned: December 20, 2025*
 *Tags: Kubernetes, DevOps, Deployment, Istio, GitOps*

@@ -102,5 +102,5 @@ export default function Default() {
 
 ---
 
-📅 *Learned: 2024*
+📅 *Learned: December 20, 2025*
 🏷️ *Tags: Next.js, Parallel Routes, Layouts*

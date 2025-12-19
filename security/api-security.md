@@ -492,5 +492,5 @@ class FieldEncryption {
 
 ---
 
-*Learned: 2024*
+*Learned: December 20, 2025*
 *Tags: Security, API, Authentication, Authorization, Rate Limiting*

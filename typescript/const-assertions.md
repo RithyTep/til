@@ -72,5 +72,5 @@ type Direction = typeof Direction[keyof typeof Direction];
 
 ---
 
-📅 *Learned: 2024*
+📅 *Learned: December 20, 2025*
 🏷️ *Tags: TypeScript, Const Assertions, Literals*

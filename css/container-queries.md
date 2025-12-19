@@ -93,5 +93,5 @@ Container queries let components style themselves based on their container size,
 
 ---
 
-📅 *Learned: 2024*
+📅 *Learned: December 20, 2025*
 🏷️ *Tags: CSS, Container Queries, Responsive Design*

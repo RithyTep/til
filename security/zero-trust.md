@@ -424,5 +424,5 @@ class AdaptiveAuth {
 
 ---
 
-*Learned: 2024*
+*Learned: December 20, 2025*
 *Tags: Security, Zero Trust, mTLS, SPIFFE, Policy, Network Security*

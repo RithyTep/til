@@ -69,5 +69,5 @@ export class AppComponent {}
 
 ---
 
-📅 *Learned: 2024*
+📅 *Learned: December 20, 2025*
 🏷️ *Tags: Angular, Standalone Components, NgModules*

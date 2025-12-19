@@ -512,5 +512,5 @@ class TokenBucket {
 
 ---
 
-*Learned: 2024*
+*Learned: December 20, 2025*
 *Tags: System Design, Scaling, Architecture, Performance, Distributed Systems*

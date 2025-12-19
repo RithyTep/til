@@ -329,5 +329,5 @@ spec:
 
 ---
 
-*Learned: 2024*
+*Learned: December 20, 2025*
 *Tags: GitOps, ArgoCD, Kubernetes, CI/CD, Progressive Delivery*

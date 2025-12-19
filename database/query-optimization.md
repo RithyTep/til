@@ -312,5 +312,5 @@ REINDEX INDEX CONCURRENTLY idx_orders_customer_id;
 
 ---
 
-*Learned: 2024*
+*Learned: December 20, 2025*
 *Tags: PostgreSQL, Database, Query Optimization, Performance, SQL*

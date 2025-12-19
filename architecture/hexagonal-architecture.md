@@ -323,5 +323,5 @@ function createTestContainer(): Container {
 
 ---
 
-*Learned: 2024*
+*Learned: December 20, 2025*
 *Tags: Architecture, Hexagonal, Ports and Adapters, Clean Architecture*
