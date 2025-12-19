@@ -19,20 +19,20 @@
 |----------|-------|
 | [Architecture](#architecture) | 3 |
 | [Distributed Systems](#distributed-systems) | 2 |
-| [DevOps & Platform](#devops--platform) | 3 |
-| [AI/ML Engineering](#aiml-engineering) | 5 |
+| [DevOps & Platform](#devops--platform) | 5 |
+| [AI/ML Engineering](#aiml-engineering) | 8 |
 | [Database Engineering](#database-engineering) | 2 |
 | [Security Engineering](#security-engineering) | 2 |
 | [Performance & Scaling](#performance--scaling) | 1 |
 | [Observability](#observability) | 1 |
-| [Next.js](#nextjs) | 16 |
+| [Next.js & React](#nextjs--react) | 17 |
 | [TypeScript](#typescript) | 5 |
 | [Angular](#angular) | 3 |
 | [JavaScript](#javascript) | 3 |
 | [Git](#git) | 2 |
 | [CSS](#css) | 2 |
 
-**Total: 50 articles**
+**Total: 56 articles**
 
 ---
 
@@ -58,6 +58,8 @@ Production-grade infrastructure and deployment.
 - [Kubernetes Patterns - Deployments, HPA, Service Mesh, Secrets](devops/kubernetes-patterns.md)
 - [GitOps with ArgoCD - ApplicationSets, Progressive Delivery](devops/gitops-argocd.md)
 - [Observability Stack - OpenTelemetry, Prometheus, Grafana](devops/observability-stack.md)
+- [JavaScript Runtimes 2025 - Node.js vs Deno vs Bun](devops/javascript-runtimes-2025.md)
+- [Edge Runtime 2025 - Cloudflare Workers vs Vercel Edge](devops/edge-runtime-2025.md)
 
 ## AI/ML Engineering
 
@@ -66,6 +68,9 @@ Building production AI systems.
 - [LLM Integration - RAG, Function Calling, Streaming, Caching](ai-ml/llm-integration.md)
 - [Prompt Engineering - Chain of Thought, Few-Shot, Constitutional AI](ai-ml/prompt-engineering.md)
 - [MCP - Model Context Protocol for AI Tools](ai-ml/mcp-model-context-protocol.md)
+- [Context7 MCP - Real-Time Documentation for AI Coding](ai-ml/context7-mcp.md)
+- [AI Coding Agents 2025 - Cursor vs Claude Code vs Windsurf](ai-ml/ai-coding-agents-2025.md)
+- [Vercel AI SDK 4.1 - Building Production AI Applications](ai-ml/vercel-ai-sdk.md)
 - [Cursor Rules - System Prompts for AI Coding Assistants](ai-ml/cursor-rules.md)
 - [Development Conventions - Team Guidelines and Standards](ai-ml/development-conventions.md)
 
@@ -97,9 +102,12 @@ End-to-end system visibility.
 
 ---
 
-## Next.js
+## Next.js & React
 
-Deep dive into Next.js 14+ App Router features and patterns.
+Deep dive into Next.js 15+ and React 19 features and patterns.
+
+### React 19
+- [React 19 Features - Compiler, Actions, and New Hooks](nextjs/react-19-features.md)
 
 ### Core Concepts
 - [Server Components - Zero-bundle React](nextjs/server-components.md)
