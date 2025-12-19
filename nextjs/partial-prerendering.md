@@ -101,22 +101,22 @@ fetch(url, { cache: 'no-store' });
 
 ## Benefits
 
-- ✅ Instant static shell (like SSG)
-- ✅ Fresh dynamic content (like SSR)
-- ✅ Best of both worlds
-- ✅ Better Core Web Vitals
-- ✅ Reduced Time to First Byte
+- Instant static shell (like SSG)
+- Fresh dynamic content (like SSR)
+- Best of both worlds
+- Better Core Web Vitals
+- Reduced Time to First Byte
 
 ## vs Traditional Approaches
 
 | Approach | Static Parts | Dynamic Parts |
 |----------|--------------|---------------|
-| SSG | ✅ Fast | ❌ Stale |
-| SSR | ❌ Slow | ✅ Fresh |
-| ISR | ✅ Fast | ⚠️ Eventually fresh |
-| **PPR** | ✅ Fast | ✅ Fresh |
+| SSG | Fast | Stale |
+| SSR | Slow | Fresh |
+| ISR | Fast | ⚠️ Eventually fresh |
+| **PPR** | Fast | Fresh |
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, PPR, Partial Prerendering, Performance*
+*Learned: December 20, 2025*
+*Tags: Next.js, PPR, Partial Prerendering, Performance*

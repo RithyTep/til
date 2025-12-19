@@ -132,5 +132,5 @@ export default function Page() {
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, SEO, Metadata, OpenGraph*
+*Learned: December 20, 2025*
+*Tags: Next.js, SEO, Metadata, OpenGraph*

@@ -77,13 +77,13 @@ async function Page() {
 
 ## Benefits
 
-- ✅ Zero JavaScript for static content
-- ✅ Direct database/API access
-- ✅ Secrets stay on server
-- ✅ Smaller bundle size
-- ✅ Better SEO
+- Zero JavaScript for static content
+- Direct database/API access
+- Secrets stay on server
+- Smaller bundle size
+- Better SEO
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, React Server Components, App Router*
+*Learned: December 20, 2025*
+*Tags: Next.js, React Server Components, App Router*

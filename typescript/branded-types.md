@@ -19,7 +19,7 @@ const userId = "user_123";
 const orderId = "order_456";
 
 // Oops! Wrong ID passed - but TypeScript doesn't catch it
-getUser(orderId); // ✅ No error, but this is a bug!
+getUser(orderId); // No error, but this is a bug!
 ```
 
 ## Solution: Branded Types
@@ -39,8 +39,8 @@ function getOrder(orderId: OrderId) { ... }
 const userId = createUserId("user_123");
 const orderId = createOrderId("order_456");
 
-getUser(userId);  // ✅ Works
-getUser(orderId); // ❌ Error: Argument of type 'OrderId' is not assignable to 'UserId'
+getUser(userId);  // Works
+getUser(orderId); // Error: Argument of type 'OrderId' is not assignable to 'UserId'
 ```
 
 ## Reusable Brand Utility
@@ -64,5 +64,5 @@ type Currency = Brand<number, "Currency">;
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: TypeScript, Type Safety, Domain Modeling*
+*Learned: December 20, 2025*
+*Tags: TypeScript, Type Safety, Domain Modeling*

@@ -93,11 +93,11 @@ tr:has(input[type="checkbox"]:checked) {
 
 ## Browser Support
 
-- ✅ Chrome 105+
-- ✅ Firefox 121+
-- ✅ Safari 15.4+
+- Chrome 105+
+- Firefox 121+
+- Safari 15.4+
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: CSS, :has() Selector, Parent Selector*
+*Learned: December 20, 2025*
+*Tags: CSS, :has() Selector, Parent Selector*

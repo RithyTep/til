@@ -162,5 +162,5 @@ export const useAuth = () => useContext(AuthContext);
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, Authentication, Security, Middleware*
+*Learned: December 20, 2025*
+*Tags: Next.js, Authentication, Security, Middleware*

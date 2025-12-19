@@ -107,5 +107,5 @@ export function middleware(request: NextRequest) {
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, Middleware, Edge, Authentication*
+*Learned: December 20, 2025*
+*Tags: Next.js, Middleware, Edge, Authentication*

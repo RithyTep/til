@@ -94,11 +94,11 @@
 
 ## Browser Support
 
-- ✅ Chrome 105+
-- ✅ Firefox 110+
-- ✅ Safari 16+
+- Chrome 105+
+- Firefox 110+
+- Safari 16+
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: CSS, Container Queries, Responsive Design*
+*Learned: December 20, 2025*
+*Tags: CSS, Container Queries, Responsive Design*

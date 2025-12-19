@@ -67,11 +67,11 @@ git rebase --abort
 ## Golden Rules
 
 - ⚠️ Never rebase pushed commits (unless force push is OK)
-- ✅ Use for local cleanup before PR
-- ✅ Squash "fix typo" commits
-- ✅ Reorder for logical flow
+- Use for local cleanup before PR
+- Squash "fix typo" commits
+- Reorder for logical flow
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Git, Rebase, Clean History*
+*Learned: December 20, 2025*
+*Tags: Git, Rebase, Clean History*

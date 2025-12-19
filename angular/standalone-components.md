@@ -68,13 +68,13 @@ export class AppComponent {}
 
 ## Benefits
 
-- ✅ Simpler mental model
-- ✅ Better tree-shaking
-- ✅ Faster compilation
-- ✅ Easier lazy loading
-- ✅ Less boilerplate
+- Simpler mental model
+- Better tree-shaking
+- Faster compilation
+- Easier lazy loading
+- Less boilerplate
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Angular, Standalone Components, NgModules*
+*Learned: December 20, 2025*
+*Tags: Angular, Standalone Components, NgModules*

@@ -29,14 +29,14 @@ async function PostsPage() {
 ## Parallel Data Fetching
 
 ```tsx
-// ❌ Sequential - slow
+// Sequential - slow
 async function Page() {
   const user = await getUser();
   const posts = await getPosts(); // Waits for user
   const comments = await getComments(); // Waits for posts
 }
 
-// ✅ Parallel - fast
+// Parallel - fast
 async function Page() {
   const [user, posts, comments] = await Promise.all([
     getUser(),
@@ -152,5 +152,5 @@ function LiveData() {
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, Data Fetching, Server Components, SWR*
+*Learned: December 20, 2025*
+*Tags: Next.js, Data Fetching, Server Components, SWR*

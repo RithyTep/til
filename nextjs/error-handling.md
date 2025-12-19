@@ -141,5 +141,5 @@ app/
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, Error Handling, Error Boundaries*
+*Learned: December 20, 2025*
+*Tags: Next.js, Error Handling, Error Boundaries*

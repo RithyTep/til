@@ -14,8 +14,8 @@
 ```typescript
 type EventName = `on${string}`;
 
-const valid: EventName = "onClick";    // ✅
-const invalid: EventName = "click";    // ❌ Error
+const valid: EventName = "onClick";    //
+const invalid: EventName = "click";    // Error
 ```
 
 ## Real-World Example: API Routes
@@ -27,7 +27,7 @@ type Endpoint = `/${APIVersion}/${"users" | "orders" | "products"}`;
 
 // Result: "/v1/users" | "/v1/orders" | "/v1/products" | "/v2/users" | ...
 
-const route: Endpoint = "/v1/users"; // ✅
+const route: Endpoint = "/v1/users"; //
 ```
 
 ## CSS Units
@@ -36,9 +36,9 @@ const route: Endpoint = "/v1/users"; // ✅
 type CSSUnit = "px" | "rem" | "em" | "%";
 type CSSValue = `${number}${CSSUnit}`;
 
-const padding: CSSValue = "16px";  // ✅
-const margin: CSSValue = "2rem";   // ✅
-const bad: CSSValue = "16";        // ❌ Error
+const padding: CSSValue = "16px";  //
+const margin: CSSValue = "2rem";   //
+const bad: CSSValue = "16";        // Error
 ```
 
 ## Extracting Parts
@@ -57,5 +57,5 @@ type Params = ExtractRouteParams<"/users/:userId/posts/:postId">;
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: TypeScript, Template Literals*
+*Learned: December 20, 2025*
+*Tags: TypeScript, Template Literals*

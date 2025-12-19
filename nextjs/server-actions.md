@@ -118,5 +118,5 @@ function TodoList({ todos, addTodo }) {
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, Server Actions, Forms*
+*Learned: December 20, 2025*
+*Tags: Next.js, Server Actions, Forms*

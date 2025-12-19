@@ -71,5 +71,5 @@ const byDate = Map.groupBy(items, item => item.date);
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: JavaScript, ES2024, Arrays*
+*Learned: December 20, 2025*
+*Tags: JavaScript, ES2024, Arrays*

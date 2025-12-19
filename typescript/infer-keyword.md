@@ -63,10 +63,10 @@ function emit<K extends keyof EventMap>(
   payload: EventPayload<K>
 ) { ... }
 
-emit("click", { x: 10, y: 20 });  // ✅ Type-safe!
+emit("click", { x: 10, y: 20 });  // Type-safe!
 ```
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: TypeScript, Conditional Types, Generics*
+*Learned: December 20, 2025*
+*Tags: TypeScript, Conditional Types, Generics*

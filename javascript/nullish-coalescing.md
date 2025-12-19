@@ -15,13 +15,13 @@
 const port = userPort || 3000;
 
 // These all return 3000 (unexpected!)
-userPort = 0;         // 0 || 3000 = 3000 ❌
-userPort = "";        // "" || 3000 = 3000 ❌
-userPort = false;     // false || 3000 = 3000 ❌
+userPort = 0;         // 0 || 3000 = 3000
+userPort = "";        // "" || 3000 = 3000
+userPort = false;     // false || 3000 = 3000
 
 // These correctly return 3000
-userPort = null;      // null || 3000 = 3000 ✅
-userPort = undefined; // undefined || 3000 = 3000 ✅
+userPort = null;      // null || 3000 = 3000
+userPort = undefined; // undefined || 3000 = 3000
 ```
 
 ## Solution with `??`
@@ -30,13 +30,13 @@ userPort = undefined; // undefined || 3000 = 3000 ✅
 const port = userPort ?? 3000;
 
 // 0 is a valid port number!
-userPort = 0;         // 0 ?? 3000 = 0 ✅
-userPort = "";        // "" ?? 3000 = "" ✅
-userPort = false;     // false ?? 3000 = false ✅
+userPort = 0;         // 0 ?? 3000 = 0
+userPort = "";        // "" ?? 3000 = ""
+userPort = false;     // false ?? 3000 = false
 
 // Only null/undefined trigger fallback
-userPort = null;      // null ?? 3000 = 3000 ✅
-userPort = undefined; // undefined ?? 3000 = 3000 ✅
+userPort = null;      // null ?? 3000 = 3000
+userPort = undefined; // undefined ?? 3000 = 3000
 ```
 
 ## Real-World Examples
@@ -62,5 +62,5 @@ const city = user?.address?.city ?? "Unknown";
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: JavaScript, ES2020, Operators*
+*Learned: December 20, 2025*
+*Tags: JavaScript, ES2020, Operators*

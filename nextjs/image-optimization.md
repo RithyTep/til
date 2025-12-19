@@ -132,5 +132,5 @@ module.exports = {
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, Images, Performance, Core Web Vitals*
+*Learned: December 20, 2025*
+*Tags: Next.js, Images, Performance, Core Web Vitals*

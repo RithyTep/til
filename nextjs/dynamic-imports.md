@@ -116,5 +116,5 @@ const Confetti = dynamic(() => import('react-confetti'), {
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, Dynamic Import, Code Splitting, Performance*
+*Learned: December 20, 2025*
+*Tags: Next.js, Dynamic Import, Code Splitting, Performance*

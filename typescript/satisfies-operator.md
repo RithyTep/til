@@ -18,8 +18,8 @@ const colors: Record<string, string> = {
   green: "#00ff00",
 };
 
-colors.red.toUpperCase(); // ✅ Works
-colors.blue; // ✅ No error - but it doesn't exist!
+colors.red.toUpperCase(); // Works
+colors.blue; // No error - but it doesn't exist!
 ```
 
 ## Solution
@@ -31,8 +31,8 @@ const colors = {
   green: "#00ff00",
 } satisfies Record<string, string>;
 
-colors.red.toUpperCase(); // ✅ Works
-colors.blue; // ❌ Error: Property 'blue' does not exist
+colors.red.toUpperCase(); // Works
+colors.blue; // Error: Property 'blue' does not exist
 ```
 
 ## Real-World Example
@@ -51,18 +51,18 @@ const routes = {
 } satisfies Record<string, Route>;
 
 // Now TypeScript knows exactly which routes exist
-routes.home.path; // ✅ Autocomplete works!
-routes.notExist; // ❌ Error
+routes.home.path; // Autocomplete works!
+routes.notExist; // Error
 ```
 
 ## When to Use
 
-- ✅ Configuration objects
-- ✅ Route definitions
-- ✅ Theme objects
-- ✅ Any object where you want both validation AND inference
+- Configuration objects
+- Route definitions
+- Theme objects
+- Any object where you want both validation AND inference
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: TypeScript, Type Safety*
+*Learned: December 20, 2025*
+*Tags: TypeScript, Type Safety*

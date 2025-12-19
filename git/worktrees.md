@@ -78,12 +78,12 @@ cd ../test-main && npm test
 
 ## Benefits
 
-- ✅ No stashing needed
-- ✅ Faster than cloning
-- ✅ Shared .git directory (saves disk space)
-- ✅ Clean mental separation
+- No stashing needed
+- Faster than cloning
+- Shared .git directory (saves disk space)
+- Clean mental separation
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Git, Worktrees, Productivity*
+*Learned: December 20, 2025*
+*Tags: Git, Worktrees, Productivity*

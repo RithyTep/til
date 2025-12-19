@@ -161,5 +161,5 @@ export function LanguageSwitcher({ currentLang }) {
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, i18n, Internationalization, Localization*
+*Learned: December 20, 2025*
+*Tags: Next.js, i18n, Internationalization, Localization*

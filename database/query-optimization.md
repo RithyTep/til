@@ -168,18 +168,18 @@ WHERE c.tier = 'premium';
 
 ```sql
 -- Avoid SELECT *
--- ❌ Bad
+-- Bad
 SELECT * FROM orders WHERE customer_id = 123;
 
--- ✅ Good (only needed columns)
+-- Good (only needed columns)
 SELECT id, total, status, created_at FROM orders WHERE customer_id = 123;
 
 -- Use EXISTS instead of IN for subqueries
--- ❌ Slower
+-- Slower
 SELECT * FROM customers
 WHERE id IN (SELECT customer_id FROM orders WHERE total > 1000);
 
--- ✅ Faster
+-- Faster
 SELECT * FROM customers c
 WHERE EXISTS (
   SELECT 1 FROM orders o
@@ -187,12 +187,12 @@ WHERE EXISTS (
 );
 
 -- Batch operations to avoid N+1
--- ❌ N+1 queries
+-- N+1 queries
 FOR customer IN SELECT * FROM customers LOOP
   SELECT COUNT(*) FROM orders WHERE customer_id = customer.id;
 END LOOP;
 
--- ✅ Single query with aggregation
+-- Single query with aggregation
 SELECT c.*, COALESCE(order_counts.count, 0) as order_count
 FROM customers c
 LEFT JOIN (

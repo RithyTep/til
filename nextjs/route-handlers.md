@@ -121,5 +121,5 @@ export async function GET() {
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, API Routes, Route Handlers*
+*Learned: December 20, 2025*
+*Tags: Next.js, API Routes, Route Handlers*

@@ -102,12 +102,12 @@ export default function Default() {
 
 ## Use Cases
 
-- ✅ Dashboards with multiple panels
-- ✅ Modals that preserve background
-- ✅ Split views (email client style)
-- ✅ Conditional content by role
+- Dashboards with multiple panels
+- Modals that preserve background
+- Split views (email client style)
+- Conditional content by role
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, Parallel Routes, Layouts*
+*Learned: December 20, 2025*
+*Tags: Next.js, Parallel Routes, Layouts*

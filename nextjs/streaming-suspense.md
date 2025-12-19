@@ -100,12 +100,12 @@ export default function PostPage({ params }) {
 
 ## Benefits
 
-- ✅ Faster Time to First Byte (TTFB)
-- ✅ Progressive rendering
-- ✅ No all-or-nothing loading
-- ✅ Better perceived performance
+- Faster Time to First Byte (TTFB)
+- Progressive rendering
+- No all-or-nothing loading
+- Better perceived performance
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Next.js, Streaming, Suspense, Performance*
+*Learned: December 20, 2025*
+*Tags: Next.js, Streaming, Suspense, Performance*

@@ -38,7 +38,7 @@ Context Map Relationships:
 // Rule 3: Modify one aggregate per transaction
 // Rule 4: Use eventual consistency between aggregates
 
-// ❌ Wrong: Large aggregate, violates boundaries
+// Wrong: Large aggregate, violates boundaries
 class Order {
   customer: Customer; // Full object reference
   items: OrderItem[];
@@ -47,7 +47,7 @@ class Order {
   inventory: InventoryReservation[];
 }
 
-// ✅ Correct: Small aggregate, references by ID
+// Correct: Small aggregate, references by ID
 class Order {
   readonly id: OrderId;
   private customerId: CustomerId;

@@ -72,12 +72,12 @@ user.mutate(u => u.age++);
 
 ## Benefits
 
-- ✅ No subscriptions to manage
-- ✅ Automatic change detection
-- ✅ Better performance (fine-grained updates)
-- ✅ Simpler mental model
+- No subscriptions to manage
+- Automatic change detection
+- Better performance (fine-grained updates)
+- Simpler mental model
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: Angular, Signals, State Management*
+*Learned: December 20, 2025*
+*Tags: Angular, Signals, State Management*

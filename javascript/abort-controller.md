@@ -86,5 +86,5 @@ controller.abort(new Error('User navigated away'));
 
 ---
 
-📅 *Learned: December 20, 2025*
-🏷️ *Tags: JavaScript, Fetch, AbortController, React*
+*Learned: December 20, 2025*
+*Tags: JavaScript, Fetch, AbortController, React*
