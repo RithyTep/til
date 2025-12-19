@@ -20,7 +20,7 @@
 | [Architecture](#architecture) | 3 |
 | [Distributed Systems](#distributed-systems) | 2 |
 | [DevOps & Platform](#devops--platform) | 3 |
-| [AI/ML Engineering](#aiml-engineering) | 2 |
+| [AI/ML Engineering](#aiml-engineering) | 5 |
 | [Database Engineering](#database-engineering) | 2 |
 | [Security Engineering](#security-engineering) | 2 |
 | [Performance & Scaling](#performance--scaling) | 1 |
@@ -32,7 +32,7 @@
 | [Git](#git) | 2 |
 | [CSS](#css) | 2 |
 
-**Total: 47 articles**
+**Total: 50 articles**
 
 ---
 
@@ -65,6 +65,9 @@ Building production AI systems.
 
 - [LLM Integration - RAG, Function Calling, Streaming, Caching](ai-ml/llm-integration.md)
 - [Prompt Engineering - Chain of Thought, Few-Shot, Constitutional AI](ai-ml/prompt-engineering.md)
+- [MCP - Model Context Protocol for AI Tools](ai-ml/mcp-model-context-protocol.md)
+- [Cursor Rules - System Prompts for AI Coding Assistants](ai-ml/cursor-rules.md)
+- [Development Conventions - Team Guidelines and Standards](ai-ml/development-conventions.md)
 
 ## Database Engineering
 
