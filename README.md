@@ -337,13 +337,12 @@
 
 ## About
 
-I'm **Rithy Tep**, a **Full Stack Team Lead** from Cambodia. I architect and build scalable systems using TypeScript, Next.js, and cloud-native technologies.
+I'm **Rithy Tep**, a **Full Stack Developer** from Cambodia. I architect and build scalable systems using TypeScript, Next.js, and cloud-native technologies.
 
 **Focus Areas:**
 - System Architecture & Distributed Systems
 - AI/ML Integration & LLM Applications
 - Platform Engineering & DevOps
-- Team Leadership & Mentoring
 
 **Connect:**
 - [Portfolio](https://portfolio.rithytep.online/)
