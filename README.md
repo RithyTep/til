@@ -19,12 +19,12 @@
 
 ## Quick Navigation
 
-| Frontend | Backend | DevOps | AI/ML |
-|:--------:|:-------:|:------:|:-----:|
-| [React](#react) | [API](#api) | [DevOps](#devops--platform) | [AI/ML](#aiml-engineering) |
-| [Next.js](#nextjs) | [Database](#database-engineering) | [Monorepo](#monorepo) | [LLM](#aiml-engineering) |
-| [TypeScript](#typescript) | [Auth](#authentication) | [Testing](#testing) | [RAG](#aiml-engineering) |
-| [CSS](#css) | [State](#state-management) | [Bundlers](#bundlers) | [Agents](#aiml-engineering) |
+| Frontend | Backend | DevOps | AI/ML | Game Dev |
+|:--------:|:-------:|:------:|:-----:|:--------:|
+| [React](#react) | [API](#api) | [DevOps](#devops--platform) | [AI/ML](#aiml-engineering) | [WebGL](#game-development) |
+| [Next.js](#nextjs) | [Database](#database-engineering) | [Monorepo](#monorepo) | [LLM](#aiml-engineering) | [Physics](#game-development) |
+| [TypeScript](#typescript) | [Auth](#authentication) | [Testing](#testing) | [RAG](#aiml-engineering) | [Multiplayer](#game-development) |
+| [CSS](#css) | [State](#state-management) | [Bundlers](#bundlers) | [Agents](#aiml-engineering) | [Neural AI](#game-development) |
 
 ---
 
@@ -262,6 +262,25 @@
 
 ---
 
+### Game Development
+
+<details>
+<summary><b>Game Dev</b> (1 article)</summary>
+
+- [WebGL Game Architecture - Building Browser Games](gamedev/webgl-game-architecture.md) - WebGL, Physics, Multiplayer, Neural AI
+
+**Topics Covered:**
+- WebGL 2.0 rendering & isometric projection
+- Car physics (Marco Monster approach)
+- Quad-tree collision detection
+- Neural network AI with genetic algorithms
+- Client-side prediction for multiplayer
+- Bezier curve track generation
+
+</details>
+
+---
+
 ### AI/ML Engineering
 
 <details>
@@ -291,6 +310,7 @@
 
 | Article | Category | Description |
 |---------|----------|-------------|
+| [WebGL Game Architecture](gamedev/webgl-game-architecture.md) | Game Dev | Browser games with WebGL |
 | [React Compiler](react/react-compiler.md) | React | Automatic memoization |
 | [Tailwind v4](css/tailwind-v4.md) | CSS | CSS-first configuration |
 | [View Transitions](css/view-transitions.md) | CSS | Native page animations |
