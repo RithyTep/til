@@ -8,6 +8,8 @@
 
 *Automatic memoization - no more useMemo, useCallback, or React.memo.*
 
+![React Compiler](https://react.dev/images/docs/diagrams/preserving_state_diff_same_pt1.png)
+
 </div>
 
 ## What React Compiler Does

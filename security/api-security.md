@@ -7,6 +7,8 @@
 
 *Production-grade security for modern APIs.*
 
+![API Security](https://owasp.org/assets/images/logo.png)
+
 </div>
 
 ## Authentication & Authorization

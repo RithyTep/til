@@ -7,6 +7,8 @@
 
 *The `??` operator only checks for `null` or `undefined`, unlike `||` which checks for any falsy value.*
 
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+
 </div>
 
 ## The Problem with `||`

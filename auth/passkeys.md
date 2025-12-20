@@ -8,6 +8,8 @@
 
 *Replace passwords with biometrics and device security - phishing-resistant by design.*
 
+![Passkeys](https://fidoalliance.org/wp-content/uploads/2022/05/How-FIDO-Works-2048x1152.png)
+
 </div>
 
 ## Why Passkeys?

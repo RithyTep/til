@@ -8,6 +8,8 @@
 
 *14x faster parsing, 57% smaller core, with new @zod/mini for lightweight validation.*
 
+![Zod](https://zod.dev/logo.svg)
+
 </div>
 
 ## What's New in Zod 4

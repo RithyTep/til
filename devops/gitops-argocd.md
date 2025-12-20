@@ -7,6 +7,8 @@
 
 *Declarative, Git-centric continuous delivery for Kubernetes.*
 
+![ArgoCD](https://argo-cd.readthedocs.io/en/stable/assets/argocd-ui.gif)
+
 </div>
 
 ## ArgoCD Application Patterns

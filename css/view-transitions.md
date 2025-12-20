@@ -8,6 +8,8 @@
 
 *Native browser API for smooth transitions between page states and navigations.*
 
+![View Transitions](https://developer.chrome.com/static/docs/web-platform/view-transitions/image/same-document-transitio-4ae026a16f274.gif)
+
 </div>
 
 ## What Are View Transitions?

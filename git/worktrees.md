@@ -7,6 +7,8 @@
 
 *Worktrees let you work on multiple branches simultaneously in different directories.*
 
+![Git Worktrees](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+
 </div>
 
 ## The Problem

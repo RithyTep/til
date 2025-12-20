@@ -7,6 +7,8 @@
 
 *Building loosely coupled, scalable systems with events.*
 
+![Event Driven Architecture](https://miro.medium.com/v2/resize:fit:1400/1*QrHLkFVfmCwVNHXikmXxvg.png)
+
 </div>
 
 ## Event Sourcing vs Event-Driven

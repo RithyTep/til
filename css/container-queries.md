@@ -7,6 +7,8 @@
 
 *Container queries let components style themselves based on their container size, not viewport.*
 
+![Container Queries](https://web.dev/static/blog/cq-stable/image/container-queries-cover.svg)
+
 </div>
 
 ## The Problem with Media Queries

@@ -8,6 +8,8 @@
 
 *Incredibly fast JavaScript runtime, bundler, test runner, and package manager - all in one.*
 
+![Bun](https://bun.sh/og.png)
+
 </div>
 
 ## Why Bun?

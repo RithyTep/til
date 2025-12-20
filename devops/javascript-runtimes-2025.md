@@ -8,6 +8,8 @@
 
 *Choosing the right runtime for production workloads.*
 
+![JavaScript Runtimes](https://bun.sh/og.png)
+
 [![Bun](https://img.shields.io/github/stars/oven-sh/bun?style=social&label=Bun)](https://github.com/oven-sh/bun)
 [![Deno](https://img.shields.io/badge/Deno-deno.land-black)](https://deno.land)
 [![Node.js](https://img.shields.io/badge/Node.js-nodejs.org-green)](https://nodejs.org)

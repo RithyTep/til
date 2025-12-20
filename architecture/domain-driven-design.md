@@ -7,6 +7,8 @@
 
 *Strategic and tactical patterns for complex domains.*
 
+![DDD](https://miro.medium.com/v2/resize:fit:1400/1*yMHUWcBgfMVlNz8J7kslRg.png)
+
 </div>
 
 ## Bounded Contexts & Context Mapping

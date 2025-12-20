@@ -7,6 +7,8 @@
 
 *ES2024 introduces `Object.groupBy()` for native array grouping without lodash.*
 
+![JavaScript ES2024](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+
 </div>
 
 ## Basic Usage

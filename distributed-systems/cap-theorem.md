@@ -7,6 +7,8 @@
 
 *Understanding consistency models in distributed systems.*
 
+![CAP Theorem](https://miro.medium.com/v2/resize:fit:1000/1*rxTP-_STj-QRDt1X9fdVlA.png)
+
 </div>
 
 ## CAP Theorem

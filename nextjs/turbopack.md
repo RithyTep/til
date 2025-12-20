@@ -8,6 +8,8 @@
 
 *Up to 10x faster development builds with Turbopack, now the default in Next.js 16.*
 
+![Turbopack](https://turbo.build/images/docs/pack-benchmark.svg)
+
 </div>
 
 ## Turbopack Timeline

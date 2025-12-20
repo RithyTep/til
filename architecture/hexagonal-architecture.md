@@ -7,6 +7,8 @@
 
 *Framework-agnostic business logic with replaceable infrastructure.*
 
+![Hexagonal Architecture](https://miro.medium.com/v2/resize:fit:1400/1*LF3qzk0dgk9kfnplYYKv4Q.png)
+
 </div>
 
 ## Core Structure

@@ -8,6 +8,8 @@
 
 *Drop-in webpack replacement with 23x faster builds, powered by Rust.*
 
+![Rspack](https://assets.rspack.dev/rspack/rspack-banner.png)
+
 </div>
 
 ## Why Rspack?

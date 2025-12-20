@@ -8,6 +8,8 @@
 
 *Powerful async state management for fetching, caching, and updating server data.*
 
+![TanStack Query](https://tanstack.com/_build/assets/og-YMWqfQQU.png)
+
 </div>
 
 ## Why TanStack Query?

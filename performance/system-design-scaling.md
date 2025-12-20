@@ -7,6 +7,8 @@
 
 *Architecture patterns for handling massive scale.*
 
+![System Design](https://miro.medium.com/v2/resize:fit:1400/1*x6UT8aXCwg8vFTLZsB42QA.png)
+
 </div>
 
 ## Load Balancing Strategies

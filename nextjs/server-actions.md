@@ -7,6 +7,8 @@
 
 *Server Actions let you run server code directly from forms without API routes.*
 
+![Server Actions](https://nextjs.org/_next/image?url=%2Fdocs%2Flight%2Fserver-actions-overview.png&w=3840&q=75)
+
 </div>
 
 ## Basic Server Action

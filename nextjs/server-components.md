@@ -7,6 +7,8 @@
 
 *Server Components run only on the server, reducing JavaScript sent to the client.*
 
+![React Server Components](https://nextjs.org/_next/image?url=%2Fdocs%2Flight%2Fthinking-in-server-components.png&w=3840&q=75)
+
 </div>
 
 ## Default Behavior (App Router)

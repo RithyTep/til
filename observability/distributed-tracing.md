@@ -7,6 +7,8 @@
 
 *End-to-end request visibility across microservices.*
 
+![OpenTelemetry](https://opentelemetry.io/img/social/logo-wordmark-001.png)
+
 </div>
 
 ## Trace Propagation

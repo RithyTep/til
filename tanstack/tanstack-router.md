@@ -8,6 +8,8 @@
 
 *100% type-safe routing with built-in caching, search params management, and code splitting.*
 
+![TanStack Router](https://tanstack.com/_build/assets/og-YMWqfQQU.png)
+
 </div>
 
 ## Why TanStack Router?

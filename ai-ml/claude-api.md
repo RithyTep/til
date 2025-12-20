@@ -8,6 +8,8 @@
 
 *Build intelligent applications with Claude's advanced reasoning and 200K context window.*
 
+![Claude AI](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F82498ab7a2dff54b7690a4f8570e6536e5457c6d-2880x1620.png&w=3840&q=75)
+
 </div>
 
 ## Why Claude?

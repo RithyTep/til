@@ -8,6 +8,8 @@
 
 *Fast, reliable end-to-end testing for modern web apps across all browsers.*
 
+![Playwright](https://playwright.dev/img/playwright-logo.svg)
+
 </div>
 
 ## Why Playwright?

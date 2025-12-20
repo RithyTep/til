@@ -7,6 +7,8 @@
 
 *Battle-tested patterns for running production workloads.*
 
+![Kubernetes](https://kubernetes.io/images/kubernetes-horizontal-color.png)
+
 </div>
 
 ## Deployment Strategies

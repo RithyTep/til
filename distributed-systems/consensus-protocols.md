@@ -7,6 +7,8 @@
 
 *Distributed agreement algorithms for fault-tolerant systems.*
 
+![Raft Consensus](https://raft.github.io/logo/annie-solo.png)
+
 </div>
 
 ## Raft Consensus

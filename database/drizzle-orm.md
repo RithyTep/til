@@ -8,6 +8,8 @@
 
 *If you know SQL, you know Drizzle. Lightweight, type-safe ORM with zero dependencies.*
 
+![Drizzle ORM](https://orm.drizzle.team/og.png)
+
 </div>
 
 ## Why Drizzle?

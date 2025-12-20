@@ -8,6 +8,8 @@
 
 *Metrics, logs, and traces for production systems.*
 
+![Grafana](https://grafana.com/static/img/grafana/showcase_visualize.jpg)
+
 </div>
 
 ## OpenTelemetry Instrumentation

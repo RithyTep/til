@@ -8,6 +8,8 @@
 
 *10-25x faster than ESLint + Prettier, unified in a single tool.*
 
+![Biome](https://biomejs.dev/img/og.png)
+
 </div>
 
 ## Why Biome?

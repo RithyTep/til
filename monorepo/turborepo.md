@@ -8,6 +8,8 @@
 
 *Incremental builds, remote caching, and parallel execution for monorepos.*
 
+![Turborepo](https://turbo.build/images/docs/pack-benchmark.svg)
+
 </div>
 
 ## Why Turborepo?
