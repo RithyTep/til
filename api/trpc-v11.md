@@ -8,7 +8,7 @@
 
 *End-to-end type-safe APIs without code generation or schema files.*
 
-![tRPC](https://trpc.io/img/logo.svg)
+![tRPC](https://raw.githubusercontent.com/trpc/trpc/main/www/static/img/logo.svg)
 
 </div>
 

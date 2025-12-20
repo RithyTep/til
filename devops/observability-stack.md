@@ -8,7 +8,7 @@
 
 *Metrics, logs, and traces for production systems.*
 
-![Grafana](https://grafana.com/static/img/grafana/showcase_visualize.jpg)
+![Grafana](https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg)
 
 </div>
 

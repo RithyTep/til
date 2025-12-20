@@ -8,7 +8,7 @@
 
 *Small, simple, and ultrafast web framework built on Web Standards.*
 
-![Hono](https://hono.dev/images/hono-title.png)
+![Hono](https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-title.png)
 
 </div>
 

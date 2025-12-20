@@ -8,7 +8,7 @@
 
 *SQLite for production - distributed, replicated, and embedded at the edge.*
 
-![Turso](https://turso.tech/og-image.png)
+![Turso](https://raw.githubusercontent.com/tursodatabase/libsql/main/docs/assets/turso.png)
 
 </div>
 

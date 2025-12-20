@@ -8,7 +8,7 @@
 
 *Incremental builds, remote caching, and parallel execution for monorepos.*
 
-![Turborepo](https://turbo.build/images/docs/pack-benchmark.svg)
+![Turborepo](https://raw.githubusercontent.com/vercel/turbo/main/docs/public/og-image.png)
 
 </div>
 

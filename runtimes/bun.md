@@ -8,7 +8,7 @@
 
 *Incredibly fast JavaScript runtime, bundler, test runner, and package manager - all in one.*
 
-![Bun](https://bun.sh/og.png)
+![Bun](https://raw.githubusercontent.com/oven-sh/bun/main/docs/public/logo.svg)
 
 </div>
 

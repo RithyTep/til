@@ -8,7 +8,7 @@
 
 *Next-gen testing framework powered by Vite - Jest compatible, instant HMR.*
 
-![Vitest](https://vitest.dev/logo-shadow.svg)
+![Vitest](https://raw.githubusercontent.com/vitest-dev/vitest/main/docs/public/logo-shadow.svg)
 
 </div>
 

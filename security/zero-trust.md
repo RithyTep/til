@@ -7,7 +7,7 @@
 
 *Never trust, always verify - security for modern distributed systems.*
 
-![Zero Trust Architecture](https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2020/04/Zero-Trust-Security-Model.png)
+![Zero Trust Architecture](https://www.cloudflare.com/img/learning/security/glossary/what-is-zero-trust/zero-trust-security-diagram.svg)
 
 </div>
 

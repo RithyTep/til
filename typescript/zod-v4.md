@@ -8,7 +8,7 @@
 
 *14x faster parsing, 57% smaller core, with new @zod/mini for lightweight validation.*
 
-![Zod](https://zod.dev/logo.svg)
+![Zod](https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg)
 
 </div>
 

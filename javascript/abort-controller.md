@@ -7,7 +7,7 @@
 
 *AbortController lets you cancel fetch requests, useful for React cleanup and timeouts.*
 
-![AbortController](https://miro.medium.com/v2/resize:fit:1400/1*0Pu-gMdOYZv8wPm9e9X5Cw.png)
+![AbortController](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 
 </div>
 

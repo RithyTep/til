@@ -8,7 +8,7 @@
 
 *Rebuilt from the ground up with a new high-performance engine and CSS-first configuration.*
 
-![Tailwind CSS](https://tailwindcss.com/_next/static/media/docs@tinypng.d9e4dcdc.png)
+![Tailwind CSS](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg)
 
 </div>
 

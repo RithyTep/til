@@ -7,7 +7,7 @@
 
 *Angular 17+ introduces `@defer` blocks for declarative lazy loading.*
 
-![Angular Defer](https://miro.medium.com/v2/resize:fit:1400/1*QKNHJLlNsvwKh6TxN9xCPA.png)
+![Angular Defer](https://angular.io/assets/images/logos/angular/angular.svg)
 
 </div>
 

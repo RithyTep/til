@@ -8,7 +8,7 @@
 
 *Subscribe to database changes in real-time with PostgreSQL and WebSockets.*
 
-![Supabase](https://supabase.com/_next/image?url=%2Fimages%2Fproduct%2Frealtime%2Fheader--dark.png&w=1920&q=75)
+![Supabase](https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/images/supabase-logo-wordmark--dark.svg)
 
 </div>
 

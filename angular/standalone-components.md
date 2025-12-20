@@ -7,7 +7,7 @@
 
 *Angular 14+ allows components without NgModules using `standalone: true`.*
 
-![Angular Standalone](https://angular.dev/assets/images/ng-image.png)
+![Angular Standalone](https://angular.io/assets/images/logos/angular/angular.svg)
 
 </div>
 
