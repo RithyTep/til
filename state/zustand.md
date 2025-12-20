@@ -8,7 +8,7 @@
 
 *Small, fast, scalable state management with a minimal API.*
 
-![Zustand](https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f0d-3f0fb8f4a9b5)
+![Zustand](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
 </div>
 

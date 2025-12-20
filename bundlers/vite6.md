@@ -8,7 +8,7 @@
 
 *The most significant Vite release since v2, introducing the Environment API for multi-runtime support.*
 
-![Vite](https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg)
+![Vite](https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg)
 
 </div>
 

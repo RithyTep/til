@@ -7,7 +7,7 @@
 
 *Battle-tested patterns for running production workloads.*
 
-![Kubernetes](https://kubernetes.io/images/kubernetes-horizontal-color.png)
+![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg)
 
 </div>
 

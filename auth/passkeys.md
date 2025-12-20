@@ -8,7 +8,7 @@
 
 *Replace passwords with biometrics and device security - phishing-resistant by design.*
 
-![Passkeys](https://passkeys.dev/images/passkeys-hero.svg)
+![Passkeys](https://upload.wikimedia.org/wikipedia/commons/4/45/Security_lock_blue.svg)
 
 </div>
 

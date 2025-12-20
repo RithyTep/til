@@ -7,7 +7,7 @@
 
 *Distributed agreement algorithms for fault-tolerant systems.*
 
-![Raft Consensus](https://raft.github.io/logo/annie-solo.png)
+![Raft](https://upload.wikimedia.org/wikipedia/commons/9/98/Raft_Consensus_Algorithm_Logo.svg)
 
 </div>
 

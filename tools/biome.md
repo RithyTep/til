@@ -8,7 +8,7 @@
 
 *10-25x faster than ESLint + Prettier, unified in a single tool.*
 
-![Biome](https://raw.githubusercontent.com/biomejs/biome/main/assets/biome-logo-slogan.svg)
+![Biome](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
 
 </div>
 

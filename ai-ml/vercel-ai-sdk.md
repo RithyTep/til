@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Vercel AI SDK](https://raw.githubusercontent.com/vercel/ai/main/assets/hero.gif)
+![Vercel AI SDK](https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg)
 
 ![Vercel](https://img.shields.io/badge/Vercel-AI_SDK_4.1-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-First-3178C6?style=for-the-badge&logo=typescript&logoColor=white)

@@ -8,7 +8,7 @@
 
 *Metrics, logs, and traces for production systems.*
 
-![Grafana](https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg)
+![Grafana](https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenTelemetry-logo.svg)
 
 </div>
 

@@ -7,7 +7,7 @@
 
 *PostgreSQL optimization techniques for high-performance applications.*
 
-![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
 
 </div>
 

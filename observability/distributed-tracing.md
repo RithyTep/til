@@ -7,7 +7,7 @@
 
 *End-to-end request visibility across microservices.*
 
-![OpenTelemetry](https://opentelemetry.io/img/social/logo-wordmark-001.png)
+![OpenTelemetry](https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenTelemetry-logo.svg)
 
 </div>
 

@@ -8,7 +8,7 @@
 
 *Up to 10x faster development builds with Turbopack, now the default in Next.js 16.*
 
-![Turbopack](https://raw.githubusercontent.com/vercel/turbo/main/docs/public/og-image.png)
+![Turbopack](https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg)
 
 </div>
 

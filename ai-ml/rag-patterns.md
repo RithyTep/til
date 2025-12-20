@@ -8,7 +8,7 @@
 
 *Ground LLM responses in your own data for accurate, up-to-date answers.*
 
-![RAG Architecture](https://miro.medium.com/v2/resize:fit:1400/1*PDoQCnh8mBJuOREKqRkWkA.png)
+![RAG](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg)
 
 </div>
 

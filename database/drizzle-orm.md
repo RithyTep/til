@@ -8,7 +8,7 @@
 
 *If you know SQL, you know Drizzle. Lightweight, type-safe ORM with zero dependencies.*
 
-![Drizzle ORM](https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/misc/readme/logo-github-sq-dark.svg)
+![Drizzle ORM](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
 
 </div>
 

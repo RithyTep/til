@@ -8,7 +8,7 @@
 
 *Drop-in webpack replacement with 23x faster builds, powered by Rust.*
 
-![Rspack](https://raw.githubusercontent.com/web-infra-dev/rspack/main/website/public/logo.png)
+![Rspack](https://upload.wikimedia.org/wikipedia/commons/c/cf/Webpack.svg)
 
 </div>
 

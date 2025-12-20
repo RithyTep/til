@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" width="100" alt="TIL">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="100" alt="TIL">
 
 ![TIL](https://img.shields.io/badge/TIL-Today%20I%20Learned-6366F1?style=for-the-badge)
 ![Articles](https://img.shields.io/badge/Articles-80+-success?style=for-the-badge)

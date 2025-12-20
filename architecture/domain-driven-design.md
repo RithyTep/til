@@ -7,7 +7,7 @@
 
 *Strategic and tactical patterns for complex domains.*
 
-![DDD](https://miro.medium.com/v2/resize:fit:1400/1*yMHUWcBgfMVlNz8J7kslRg.png)
+![DDD](https://upload.wikimedia.org/wikipedia/commons/7/73/Uml_diagram2.svg)
 
 </div>
 

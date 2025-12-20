@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Context7 Cover](https://raw.githubusercontent.com/upstash/context7/master/public/cover.png)
+![Context7](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg)
 
 *Up-to-date, version-specific documentation directly in your AI prompts.*
 

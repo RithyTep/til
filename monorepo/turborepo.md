@@ -8,7 +8,7 @@
 
 *Incremental builds, remote caching, and parallel execution for monorepos.*
 
-![Turborepo](https://raw.githubusercontent.com/vercel/turbo/main/docs/public/og-image.png)
+![Turborepo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg)
 
 </div>
 

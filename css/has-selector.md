@@ -7,7 +7,7 @@
 
 *CSS `:has()` is the "parent selector" we've waited 20 years for!*
 
-![CSS has selector](https://ishadeed.com/assets/css-has/intro.png)
+![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
 
 </div>
 

@@ -7,7 +7,7 @@
 
 *Use `git rebase -i` to squash, edit, or reorder commits before pushing.*
 
-![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
 
 </div>
 

@@ -8,7 +8,7 @@
 
 *Native browser API for smooth transitions between page states and navigations.*
 
-![View Transitions](https://developer.chrome.com/static/docs/web-platform/view-transitions/image/same-document-transitio-4ae026a16f274.gif)
+![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
 
 </div>
 

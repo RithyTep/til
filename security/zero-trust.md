@@ -7,7 +7,7 @@
 
 *Never trust, always verify - security for modern distributed systems.*
 
-![Zero Trust Architecture](https://www.cloudflare.com/img/learning/security/glossary/what-is-zero-trust/zero-trust-security-diagram.svg)
+![Zero Trust](https://upload.wikimedia.org/wikipedia/commons/4/45/Security_lock_blue.svg)
 
 </div>
 

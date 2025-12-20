@@ -7,7 +7,7 @@
 
 *Ultra-low latency serverless at the edge.*
 
-![Cloudflare Workers](https://raw.githubusercontent.com/cloudflare/cloudflare-docs/production/static/cf-logo-v.svg)
+![Cloudflare Workers](https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png)
 
 [![Cloudflare Workers](https://img.shields.io/badge/workers.cloudflare.com-orange)](https://workers.cloudflare.com)
 [![Vercel Edge](https://img.shields.io/badge/vercel.com-black)](https://vercel.com/docs/functions/edge-functions)

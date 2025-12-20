@@ -8,7 +8,7 @@
 
 *Small, simple, and ultrafast web framework built on Web Standards.*
 
-![Hono](https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-title.png)
+![Hono](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
 
 </div>
 

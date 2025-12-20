@@ -16,7 +16,7 @@
 
 | Isometric Racing | Multiplayer Gameplay |
 |:----------------:|:--------------------:|
-| ![Isometric Racing](https://raw.githubusercontent.com/nickmomrik/micro-machines/refs/heads/master/img/screenshot.png) | ![Multiplayer](https://user-images.githubusercontent.com/1396867/82753285-e4de9480-9dc0-11ea-9a28-2d3e7b58a648.gif) |
+| ![Isometric Racing](https://upload.wikimedia.org/wikipedia/commons/2/21/WebGL_Logo.svg) | ![Multiplayer](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) |
 
 *Example of isometric racing game with WebGL rendering*
 
@@ -94,7 +94,7 @@ const fragmentShader = `#version 300 es
 
 <div align="center">
 
-![Isometric Projection](https://www.significant-bits.com/wp-content/uploads/2010/06/iso_graph1.png)
+![Isometric Projection](https://upload.wikimedia.org/wikipedia/commons/4/41/Isometric_view.svg)
 
 *Isometric projection transforms 3D coordinates to 2D screen space at 30-degree angles*
 
@@ -303,7 +303,7 @@ class QuadTree {
 
 <div align="center">
 
-![Neural Network Car](https://miro.medium.com/v2/resize:fit:1400/1*Gh5PS4R_A5drl5ebd_gNrg@2x.png)
+![Neural Network](https://upload.wikimedia.org/wikipedia/commons/e/e4/Artificial_neural_network.svg)
 
 *Self-driving car AI using ray-casting sensors and neural network decision making*
 

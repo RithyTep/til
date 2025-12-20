@@ -7,7 +7,7 @@
 
 *Angular Signals (v16+) provide a simpler way to handle reactive state without RxJS complexity.*
 
-![Angular Signals](https://angular.io/assets/images/logos/angular/angular.svg)
+![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg)
 
 </div>
 

@@ -8,7 +8,7 @@
 
 *Drop-in authentication with beautiful UI, social logins, and organization management.*
 
-![Clerk Auth](https://images.clerk.com/static/logo-light-mode-400x400.png)
+![Clerk](https://upload.wikimedia.org/wikipedia/commons/4/45/Security_lock_blue.svg)
 
 </div>
 

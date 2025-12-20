@@ -7,7 +7,7 @@
 
 *Production-grade security for modern APIs.*
 
-![API Security](https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/logo_circle.png)
+![API Security](https://upload.wikimedia.org/wikipedia/commons/4/45/Security_lock_blue.svg)
 
 </div>
 

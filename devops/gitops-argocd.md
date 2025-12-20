@@ -7,7 +7,7 @@
 
 *Declarative, Git-centric continuous delivery for Kubernetes.*
 
-![ArgoCD](https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argo.png)
+![ArgoCD](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg)
 
 </div>
 

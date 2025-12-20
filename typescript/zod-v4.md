@@ -8,7 +8,7 @@
 
 *14x faster parsing, 57% smaller core, with new @zod/mini for lightweight validation.*
 
-![Zod](https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg)
+![Zod](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
 
 </div>
 

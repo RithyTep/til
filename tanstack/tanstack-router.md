@@ -8,7 +8,7 @@
 
 *100% type-safe routing with built-in caching, search params management, and code splitting.*
 
-![TanStack Router](https://raw.githubusercontent.com/TanStack/router/main/media/repo-header.png)
+![TanStack Router](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
 </div>
 

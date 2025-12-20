@@ -7,7 +7,7 @@
 
 *Building loosely coupled, scalable systems with events.*
 
-![Event Driven Architecture](https://miro.medium.com/v2/resize:fit:1400/1*QrHLkFVfmCwVNHXikmXxvg.png)
+![EDA](https://upload.wikimedia.org/wikipedia/commons/9/9a/Event-driven-architecture.svg)
 
 </div>
 

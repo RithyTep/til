@@ -8,7 +8,7 @@
 
 *Fast, reliable end-to-end testing for modern web apps across all browsers.*
 
-![Playwright](https://raw.githubusercontent.com/microsoft/playwright/main/docs/src/assets/playwright-logo.svg)
+![Playwright](https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg)
 
 </div>
 

@@ -7,7 +7,7 @@
 
 *Patterns for data consistency in distributed systems.*
 
-![Distributed Transactions](https://miro.medium.com/v2/resize:fit:1400/1*a5KqkFKPrF5LcYlBzLqOsA.png)
+![Distributed](https://upload.wikimedia.org/wikipedia/commons/8/87/Two-Phase_Commit_Protocol-Positive.svg)
 
 </div>
 
