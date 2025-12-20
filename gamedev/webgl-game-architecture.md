@@ -10,6 +10,18 @@
 
 </div>
 
+## Game Preview
+
+<div align="center">
+
+| Isometric Racing | Multiplayer Gameplay |
+|:----------------:|:--------------------:|
+| ![Isometric Racing](https://raw.githubusercontent.com/nickmomrik/micro-machines/refs/heads/master/img/screenshot.png) | ![Multiplayer](https://user-images.githubusercontent.com/1396867/82753285-e4de9480-9dc0-11ea-9a28-2d3e7b58a648.gif) |
+
+*Example of isometric racing game with WebGL rendering*
+
+</div>
+
 ## Architecture Overview
 
 ```
@@ -80,6 +92,14 @@ const fragmentShader = `#version 300 es
 
 ## Isometric Projection
 
+<div align="center">
+
+![Isometric Projection](https://www.significant-bits.com/wp-content/uploads/2010/06/iso_graph1.png)
+
+*Isometric projection transforms 3D coordinates to 2D screen space at 30-degree angles*
+
+</div>
+
 ```javascript
 // Create isometric projection matrix
 function createIsometricProjection(width, height) {
@@ -108,6 +128,21 @@ class DepthSorter {
 ```
 
 ## Car Physics (Marco Monster Approach)
+
+<div align="center">
+
+![Car Physics Forces](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games_files/forces.gif)
+
+*Forces acting on a car: engine force, drag, friction, and cornering forces*
+
+| Force | Description |
+|-------|-------------|
+| Engine | Forward thrust from wheels |
+| Drag | Air resistance (proportional to v^2) |
+| Rolling Resistance | Tire friction with ground |
+| Cornering | Lateral forces during turns |
+
+</div>
 
 ```javascript
 class CarPhysics {
@@ -178,6 +213,26 @@ class CarPhysics {
 
 ## Quad-Tree Collision Detection
 
+<div align="center">
+
+![Quad Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Point_quadtree.svg/300px-Point_quadtree.svg.png)
+
+*Quad-tree divides space into 4 quadrants recursively for O(log n) collision queries*
+
+```
+┌───────────────────────────────┐
+│               │               │
+│      NW       │      NE       │
+│               │               │
+│───────────────┼───────────────│
+│               │               │
+│      SW       │      SE       │
+│               │               │
+└───────────────────────────────┘
+```
+
+</div>
+
 ```javascript
 class QuadTree {
   constructor(bounds, maxObjects = 10, maxLevels = 5, level = 0) {
@@ -245,6 +300,25 @@ class QuadTree {
 ```
 
 ## Neural Network AI (Genetic Algorithm)
+
+<div align="center">
+
+![Neural Network Car](https://miro.medium.com/v2/resize:fit:1400/1*Gh5PS4R_A5drl5ebd_gNrg@2x.png)
+
+*Self-driving car AI using ray-casting sensors and neural network decision making*
+
+```
+     Sensors (5)          Hidden Layer (8)         Outputs (2)
+         ○                     ○
+        /│\                   /│\                    ○ Steering
+       / │ \                 / │ \                  /
+      ○  ○  ○ ─────────────○  ○  ○ ───────────────○ Throttle
+       \ │ /                 \ │ /
+        \│/                   \│/
+         ○                     ○
+```
+
+</div>
 
 ```javascript
 class NeuralNetwork {
@@ -342,6 +416,22 @@ class GeneticAlgorithm {
 
 ## Client-Side Prediction
 
+<div align="center">
+
+![Client Side Prediction](https://www.gabrielgambetta.com/img/fpm3-01.png)
+
+*Client predicts movement locally while waiting for server confirmation*
+
+```
+Timeline:
+─────────────────────────────────────────────────────►
+Client:  Input → Predict → Predict → Reconcile
+                    ↓         ↓          ↑
+Server:          Receive → Process → Broadcast
+```
+
+</div>
+
 ```javascript
 class ClientPrediction {
   constructor() {
@@ -390,6 +480,20 @@ class ClientPrediction {
 ```
 
 ## Bezier Curve Track Generation
+
+<div align="center">
+
+![Bezier Curve](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bezier_curve.svg/360px-Bezier_curve.svg.png)
+
+*Bezier curves create smooth racing tracks from control points*
+
+| Curve Type | Control Points | Use Case |
+|------------|----------------|----------|
+| Quadratic | 3 points | Simple curves |
+| Cubic | 4 points | S-curves, complex paths |
+| Higher Order | N points | Detailed track sections |
+
+</div>
 
 ```javascript
 // De Casteljau algorithm for track curves
@@ -457,6 +561,23 @@ class BezierTrack {
 ```
 
 ## WebSocket Multiplayer
+
+<div align="center">
+
+![WebSocket Architecture](https://images.ctfassets.net/ee3ypdtck0rk/1Lzv8FmVuqQ0yvJbsA9bny/e6f28239acb4693be5abe4c0cc49c8ca/websockets-animation.gif)
+
+*WebSocket enables real-time bidirectional communication between clients and server*
+
+```
+┌─────────┐     WebSocket      ┌─────────┐
+│ Client1 │◄──────────────────►│         │
+└─────────┘                    │  Game   │
+┌─────────┐     WebSocket      │ Server  │
+│ Client2 │◄──────────────────►│         │
+└─────────┘                    └─────────┘
+```
+
+</div>
 
 ```javascript
 // Server-side game room
@@ -564,6 +685,30 @@ class StructPacker {
 ```
 
 ## Game Loop
+
+<div align="center">
+
+![Game Loop](https://gameprogrammingpatterns.com/images/game-loop-fixed.png)
+
+*Fixed timestep game loop separates physics updates from rendering*
+
+```
+┌─────────────────────────────────────────────────────┐
+│                    GAME LOOP                        │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  ┌──────────┐    ┌──────────┐    ┌──────────────┐  │
+│  │  Input   │───►│  Update  │───►│    Render    │  │
+│  │ Process  │    │ (Fixed)  │    │ (Variable)   │  │
+│  └──────────┘    └──────────┘    └──────────────┘  │
+│       │               │                  │          │
+│       └───────────────┴──────────────────┘          │
+│                       ▼                             │
+│              requestAnimationFrame                  │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ```javascript
 class GameLoop {
